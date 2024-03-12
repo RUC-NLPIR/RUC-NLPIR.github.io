@@ -8,12 +8,8 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@RUC-NLPIR.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  google-scholar: ChCjAAwAAAAJ
   github: RUC-NLPIR
-  twitter: RUC-NLPIR
-  youtube: RUC-NLPIR
 
 ### jekyll settings
 
