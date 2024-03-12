@@ -3,7 +3,7 @@
 
 # RUC-NLPIR's Website
 
-An engaging 1-3 sentence description of your lab.
+RUC-NLPIR lab is from Gaoling School of Artificial Intelligence, Renmin University of China. This lab is under the supervision of Prof. Zhicheng Dou, with special interests in information retrieval and natural language processing.
 
 {% include section.html %}
 
