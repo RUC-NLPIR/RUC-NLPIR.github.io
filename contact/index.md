@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-If you want to join our lab or have any other inquiries, please contact dou AT ruc.edu.cn.
+If you want to join our lab or have any other inquiries, please contact dou AT ruc.edu.cn. {:.center}
 
 {% include section.html %}
 
