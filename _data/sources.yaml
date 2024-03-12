@@ -24,7 +24,7 @@
   - Zhicheng Dou
   publisher: arXiv
   type: paper
-  date: '2024'
+  date: '2024-1-7'
   link: https://arxiv.org/abs/2401.03462
 - id: arxiv:2402.11626
   title: 'Metacognitive Retrieval-Augmented Large Language Models'
@@ -36,7 +36,7 @@
   - Zhicheng Dou
   publisher: WWW
   type: paper
-  date: '2024'
+  date: '2024-2-18'
   link: https://arxiv.org/abs/2402.11626
 - id: arxiv:2402.10548
   title: 'Cognitive Personalized Search Integrating Large Language Models with an Efficient Memory Mechanism'
@@ -47,7 +47,7 @@
   - Zhicheng Dou
   publisher: The ACM Web Conference 2024
   type: paper
-  date: '2024'
+  date: '2024-2-16'
   link: https://arxiv.org/abs/2402.10548
 - id: doi:10.1109/TKDE.2023.3291006
   title: 'Integrated Personalized and Diversified Search Based on Search Logs'
@@ -58,7 +58,7 @@
   - Ji-Rong Wen
   publisher: IEEE TKDE
   type: paper
-  date: '2024-2'
+  date: '2024-2-1'
   link: http://playbigdata.ruc.edu.cn/dou/publication/2024_TKDE_Integrated_Personalized_and_Diversified_Search_Based_on_Search_Logs.pdf
 - id: doi:10.1145/3631989
   title: 'Personalized and Diversified: Ranking Search Results in an Integrated Way'
@@ -70,7 +70,7 @@
   - Ji-Rong Wen
   publisher: ACM TOIS
   type: paper
-  date: '2024'
+  date: '2024-1-22'
   link: https://doi.org/10.1145/3631989
 - id: doi:10.1145/3639817
   title: 'Intent-oriented Dynamic Interest Modeling for Personalized Web Search'
@@ -81,7 +81,7 @@
   - Ji-Rong Wen
   publisher: ACM TOIS
   type: paper
-  date: '2024'
+  date: '2024-2-9'
   link: https://dl.acm.org/doi/abs/10.1145/3639817
 - id: arxiv:2312.11036
   title: 'UniGen: A Unified Generative Framework for Retrieval and Question Answering with Large Language Models'
@@ -91,5 +91,5 @@
   - Zhicheng Dou
   publisher: AAAI
   type: paper
-  date: '2024'
+  date: '2024-2-20'
   link: https://arxiv.org/abs/2312.11036
