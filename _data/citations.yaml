@@ -28,7 +28,7 @@
   - Qiwei Ye
   - Zhicheng Dou
   publisher: arXiv
-  date: ''
+  date: '2024-01-07'
   link: https://arxiv.org/abs/2401.03462
   type: paper
   plugin: sources.py
@@ -42,7 +42,7 @@
   - Jian-Yun Nie
   - Zhicheng Dou
   publisher: WWW
-  date: ''
+  date: '2024-02-18'
   link: https://arxiv.org/abs/2402.11626
   type: paper
   plugin: sources.py
@@ -56,7 +56,7 @@
   - Jiajie Jin
   - Zhicheng Dou
   publisher: The ACM Web Conference 2024
-  date: ''
+  date: '2024-02-16'
   link: https://arxiv.org/abs/2402.10548
   type: paper
   plugin: sources.py
@@ -69,7 +69,7 @@
   - Jian-Yun Nie
   - Ji-Rong Wen
   publisher: IEEE TKDE
-  date: ''
+  date: '2024-02-01'
   link: http://playbigdata.ruc.edu.cn/dou/publication/2024_TKDE_Integrated_Personalized_and_Diversified_Search_Based_on_Search_Logs.pdf
   type: paper
   plugin: sources.py
@@ -83,7 +83,7 @@
   - Qiannan Zhu
   - Ji-Rong Wen
   publisher: ACM TOIS
-  date: ''
+  date: '2024-01-22'
   link: https://doi.org/10.1145/3631989
   type: paper
   plugin: sources.py
@@ -96,7 +96,7 @@
   - Zhicheng Dou
   - Ji-Rong Wen
   publisher: ACM TOIS
-  date: ''
+  date: '2024-02-09'
   link: https://dl.acm.org/doi/abs/10.1145/3639817
   type: paper
   plugin: sources.py
@@ -109,7 +109,7 @@
   - Yujia Zhou
   - Zhicheng Dou
   publisher: AAAI
-  date: ''
+  date: '2024-02-20'
   link: https://arxiv.org/abs/2312.11036
   type: paper
   plugin: sources.py
