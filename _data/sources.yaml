@@ -57,7 +57,7 @@
   - Jian-Yun Nie
   - Ji-Rong Wen
   publisher: IEEE TKDE
-  type: journal_article
+  type: paper
   date: '2024-2'
   link: http://playbigdata.ruc.edu.cn/dou/publication/2024_TKDE_Integrated_Personalized_and_Diversified_Search_Based_on_Search_Logs.pdf
 - id: doi:10.1145/3631989
@@ -69,7 +69,7 @@
   - Qiannan Zhu
   - Ji-Rong Wen
   publisher: ACM TOIS
-  type: journal_article
+  type: paper
   date: '2024'
   link: https://doi.org/10.1145/3631989
 - id: doi:10.1145/3639817
@@ -80,7 +80,7 @@
   - Zhicheng Dou
   - Ji-Rong Wen
   publisher: ACM TOIS
-  type: journal_article
+  type: paper
   date: '2024'
   link: https://dl.acm.org/doi/abs/10.1145/3639817
 - id: arxiv:2312.11036
