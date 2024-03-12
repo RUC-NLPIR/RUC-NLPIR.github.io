@@ -71,7 +71,7 @@
   publisher: IEEE TKDE
   date: ''
   link: http://playbigdata.ruc.edu.cn/dou/publication/2024_TKDE_Integrated_Personalized_and_Diversified_Search_Based_on_Search_Logs.pdf
-  type: journal_article
+  type: paper
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3631989
@@ -85,7 +85,7 @@
   publisher: ACM TOIS
   date: ''
   link: https://doi.org/10.1145/3631989
-  type: journal_article
+  type: paper
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3639817
@@ -98,7 +98,7 @@
   publisher: ACM TOIS
   date: ''
   link: https://dl.acm.org/doi/abs/10.1145/3639817
-  type: journal_article
+  type: paper
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2312.11036
