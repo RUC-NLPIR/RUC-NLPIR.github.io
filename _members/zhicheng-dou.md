@@ -4,6 +4,7 @@ image: images/zhicheng-dou.png
 role: pi
 links:
   home-page: http://playbigdata.ruc.edu.cn/dou/
+  google-scholar: ChCjAAwAAAAJ
   orcid: 0000-0002-9781-948X
 ---
 
