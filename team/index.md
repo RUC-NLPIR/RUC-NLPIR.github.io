@@ -9,16 +9,15 @@ nav:
 
 {% include section.html %}
 
+## Current Members
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
 {% include section.html %}
 
-{% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+## Alumni
+{% capture content %}
 
 {% endcapture %}
 
