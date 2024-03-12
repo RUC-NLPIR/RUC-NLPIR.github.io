@@ -13,11 +13,3 @@
   type: paper
   date: '2024-1-12'
   link: https://arxiv.org/abs/2401.06532
-  buttons:
-    - type: source
-      link: https://github.com/DaoD/INTERS
-  tags:
-    - large language model
-    - information retrieval
-    - instruction tuning
-  repo: DaoD/INTERS
