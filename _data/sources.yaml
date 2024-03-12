@@ -26,28 +26,7 @@
   type: paper
   date: '2024'
   link: https://arxiv.org/abs/2401.03462
-- id: url:www/2024/liu
-  title: 'Mining Exploratory Queries for Conversational Search'
-  authors: 
-  - Wenhan Liu
-  - Ziliang Zhao
-  - Yutao Zhu
-  - Zhicheng Dou
-  publisher: WWW
-  type: paper
-  date: '2024'
-  link: http://playbigdata.ruc.edu.cn/dou/#
-  venue: Singapore
-- id: url:www/2024/zhao
-  title: 'Generating Multi-turn Clarification for Web Information Seeking'
-  authors: 
-  - Ziliang Zhao
-  - Zhicheng Dou
-  publisher: WWW
-  type: paper
-  date: '2024'
-  link: http://playbigdata.ruc.edu.cn/dou/#
-- id: url:www/2024/zhou
+- id: arxiv:2402.11626
   title: 'Metacognitive Retrieval-Augmented Large Language Models'
   authors: 
   - Yujia Zhou
@@ -55,11 +34,11 @@
   - Jiajie Jin
   - Jian-Yun Nie
   - Zhicheng Dou
-  publisher: The ACM Web Conference 2024
+  publisher: WWW
   type: paper
   date: '2024'
-  link: http://playbigdata.ruc.edu.cn/dou/#
-- id: url:www/2024/zhou2
+  link: https://arxiv.org/abs/2402.11626
+- id: arxiv:2402.10548
   title: 'Cognitive Personalized Search Integrating Large Language Models with an Efficient Memory Mechanism'
   authors: 
   - Yujia Zhou
@@ -69,7 +48,7 @@
   publisher: The ACM Web Conference 2024
   type: paper
   date: '2024'
-  link: http://playbigdata.ruc.edu.cn/dou/#
+  link: https://arxiv.org/abs/2402.10548
 - id: doi:10.1109/TKDE.2023.3291006
   title: 'Integrated Personalized and Diversified Search Based on Search Logs'
   authors: 
@@ -104,7 +83,7 @@
   type: journal_article
   date: '2024'
   link: https://dl.acm.org/doi/abs/10.1145/3639817
-- id: url:http://playbigdata.ruc.edu.cn/dou/publication/2024_AAAI_UniGen.pdf
+- id: arxiv:2312.11036
   title: 'UniGen: A Unified Generative Framework for Retrieval and Question Answering with Large Language Models'
   authors: 
   - Xiaoxi Li
@@ -113,15 +92,4 @@
   publisher: AAAI
   type: paper
   date: '2024'
-  link: http://playbigdata.ruc.edu.cn/dou/publication/2024_AAAI_UniGen.pdf
-- id: url:wsdm/2024/deng
-  title: 'CL4DIV: A Contrastive Learning Framework for Search Result Diversification'
-  authors: 
-  - Zhirui Deng
-  - Zhicheng Dou
-  - Yutao Zhu
-  - Ji-Rong Wen
-  publisher: WSDM
-  type: paper
-  date: '2024'
-  link: http://playbigdata.ruc.edu.cn/dou/#
+  link: https://arxiv.org/abs/2312.11036
