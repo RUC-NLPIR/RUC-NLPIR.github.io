@@ -1,7 +1,7 @@
 ---
 name: Zhicheng Dou
 image: images/photo.jpg
-role: Professor
+role: pi
 links:
   home-page: http://playbigdata.ruc.edu.cn/dou/
   orcid: 0000-0002-9781-948X
