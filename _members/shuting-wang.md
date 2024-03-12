@@ -1,7 +1,7 @@
 ---
 name: Shuting Wang
 image: images/shuting-wang.png
-role: Ph.D. candidate
+role: phd
 links:
   google-scholar: D2eGIlEAAAAJ
   orcid: 0000-0003-3013-4555
