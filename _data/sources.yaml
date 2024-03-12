@@ -13,3 +13,115 @@
   type: paper
   date: '2024-1-12'
   link: https://arxiv.org/abs/2401.06532
+- id: arxiv:2401.03462
+  title: 'Soaring from 4K to 400K: Extending LLM's Context with Activation Beacon'
+  authors: 
+  - Peitian Zhang
+  - Zheng Liu
+  - Shitao Xiao
+  - Ninglu Shao
+  - Qiwei Ye
+  - Zhicheng Dou
+  publisher: arXiv
+  type: paper
+  date: '2024'
+  link: https://arxiv.org/abs/2401.03462
+- id: thewebconf:2024-liu
+  title: 'Mining Exploratory Queries for Conversational Search'
+  authors: 
+  - Wenhan Liu
+  - Ziliang Zhao
+  - Yutao Zhu
+  - Zhicheng Dou
+  publisher: WWW
+  type: paper
+  date: '2024'
+  link: http://playbigdata.ruc.edu.cn/dou/#
+  venue: Singapore
+- id: thewebconf:2024-zhao
+  title: 'Generating Multi-turn Clarification for Web Information Seeking'
+  authors: 
+  - Ziliang Zhao
+  - Zhicheng Dou
+  publisher: WWW
+  type: paper
+  date: '2024'
+  link: http://playbigdata.ruc.edu.cn/dou/#
+- id: thewebconf:2024-zhou
+  title: 'Metacognitive Retrieval-Augmented Large Language Models'
+  authors: 
+  - Yujia Zhou
+  - Zheng Liu
+  - Jiajie Jin
+  - Jian-Yun Nie
+  - Zhicheng Dou
+  publisher: The ACM Web Conference 2024
+  type: paper
+  date: '2024'
+  link: http://playbigdata.ruc.edu.cn/dou/#
+- id: thewebconf:2024
+  title: 'Cognitive Personalized Search Integrating Large Language Models with an Efficient Memory Mechanism'
+  authors: 
+  - Yujia Zhou
+  - Qiannan Zhu
+  - Jiajie Jin
+  - Zhicheng Dou
+  publisher: The ACM Web Conference 2024
+  type: paper
+  date: '2024'
+  link: http://playbigdata.ruc.edu.cn/dou/#
+- id: doi:10.1109/TKDE.2023.3291006
+  title: 'Integrated Personalized and Diversified Search Based on Search Logs'
+  authors: 
+  - Jiongnan Liu
+  - Zhicheng Dou
+  - Jian-Yun Nie
+  - Ji-Rong Wen
+  publisher: IEEE TKDE
+  type: journal_article
+  date: '2024-2'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2024_TKDE_Integrated_Personalized_and_Diversified_Search_Based_on_Search_Logs.pdf
+- id: doi:10.1145/3631989
+  title: 'Personalized and Diversified: Ranking Search Results in an Integrated Way'
+  authors: 
+  - Shuting Wang
+  - Zhicheng Dou
+  - Jiongnan Liu
+  - Qiannan Zhu
+  - Ji-Rong Wen
+  publisher: ACM TOIS
+  type: journal_article
+  date: '2024'
+  link: https://doi.org/10.1145/3631989
+- id: doi:10.1145/3639817
+  title: 'Intent-oriented Dynamic Interest Modeling for Personalized Web Search'
+  authors: 
+  - Yutong Bai
+  - Yujia Zhou
+  - Zhicheng Dou
+  - Ji-Rong Wen
+  publisher: ACM TOIS
+  type: journal_article
+  date: '2024'
+  link: https://dl.acm.org/doi/abs/10.1145/3639817
+- id: aaaiconf:2024
+  title: 'UniGen: A Unified Generative Framework for Retrieval and Question Answering with Large Language Models'
+  authors: 
+  - Xiaoxi Li
+  - Yujia Zhou
+  - Zhicheng Dou
+  publisher: AAAI
+  type: paper
+  date: '2024'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2024_AAAI_UniGen.pdf
+- id: wsdmconf:2024
+  title: 'CL4DIV: A Contrastive Learning Framework for Search Result Diversification'
+  authors: 
+  - Zhirui Deng
+  - Zhicheng Dou
+  - Yutao Zhu
+  - Ji-Rong Wen
+  publisher: WSDM
+  type: paper
+  date: '2024'
+  link: http://playbigdata.ruc.edu.cn/dou/#
