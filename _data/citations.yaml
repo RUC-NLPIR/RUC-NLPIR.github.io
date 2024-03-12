@@ -16,13 +16,5 @@
   date: '2024-01-12'
   link: https://arxiv.org/abs/2401.06532
   type: paper
-  buttons:
-  - type: source
-    link: https://github.com/DaoD/INTERS
-  tags:
-  - large language model
-  - information retrieval
-  - instruction tuning
-  repo: DaoD/INTERS
   plugin: sources.py
   file: sources.yaml
