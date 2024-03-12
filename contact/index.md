@@ -22,4 +22,4 @@ Address: Lide Building, Renmin University of China, No. 59, Zhongguancun Street,
 
 {% endcapture %}
 
-{% include feature.html image="http://ai.ruc.edu.cn/images/2022-06/5f63a322d3ce431284aef07703059514.jpg" headline="" text=text %}
+{% include feature.html image="images/contact.jpg" headline="" text=text %}
