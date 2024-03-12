@@ -1,6 +1,6 @@
 ---
 name: Yutao Zhu
-image: images/photo.jpg
+image: images/yutao-zhu.png
 role: postdoc
 links:
   home-page: https://daod.github.io/
