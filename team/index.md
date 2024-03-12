@@ -17,13 +17,15 @@ nav:
 
 
 ## Alumni
-#### Postdoc
+###### Postdoc
 - Qiannan Zhu, 2021-2023, Beijing Normal University
-#### PhD
+
+###### PhD
 - Han Zhang, 2018-2023, China Unicom
 - Xubo Qin, 2017-2021, JD
 - Sha Hu, 2010-2015, Southwest University
-#### Master
+
+###### Master
 - Hanxun Zhong, 2020-2023, Bytedance
 - Yueyuan Ma, 2020-2023, China Mobile
 - Didi Lian, 2020-2023, China Life Insurance
