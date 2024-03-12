@@ -1,7 +1,7 @@
 ---
 name: Zhicheng Dou
 image: images/photo.jpg
-role: pi
+role: Professor
 aliases:
   - Z. Dou
 links:
