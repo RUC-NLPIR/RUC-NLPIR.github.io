@@ -1,7 +1,7 @@
 ---
 name: Yutao Zhu
 image: images/photo.jpg
-role: Postdoc
+role: postdoc
 links:
   home-page: https://daod.github.io/
   orcid: 0000-0002-9432-3251
