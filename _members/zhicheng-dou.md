@@ -1,6 +1,6 @@
 ---
 name: Zhicheng Dou
-image: images/photo.jpg
+image: images/zhicheng-dou.png
 role: pi
 links:
   home-page: http://playbigdata.ruc.edu.cn/dou/
