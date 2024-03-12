@@ -22,7 +22,7 @@ nav:
 - Hanxun Zhong, Master, 2020-2023, Bytedance
 - Yueyuan Ma, Master, 2020-2023, China Mobile
 - Didi Lian, Master, 2020-2023, China Life Insurance
-- Qingxu Bin, Master, 2020-2023, Bytedance
+- Qingyu Bing, Master, 2020-2023, Bytedance
 - Shuqi Lu, Master, 2019-2022, DP Technology
 - Tao Lv, Master, 2020-2022, China Life Insurance
 - Jing Yao, Master, 2019-2022, Microsoft Research Asia
