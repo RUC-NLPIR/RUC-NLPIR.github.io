@@ -1,6 +1,6 @@
 ---
 name: Zhaoheng Huang
-image: images/zhaoheng-huang.jpg
+image: images/zhaoheng-huang.png
 role: phd
 links:
   home-page: https://waldenruc.github.io/
