@@ -45,6 +45,7 @@ nav:
 - Zhen Huang, 2017-2020, Datalun
 - Juan Li, 2016-2019, Industrial and Commercial Bank of China
 - Anwen Hu, 2017-2019, Alibaba
+- Zhengbao Jiang, 2015-2018, CMU
 - Ming Yue, 2015-2018, Tencent
 - Beiping Pan, 2016-2018, Tencent
 - Qunfen Lin, 2016-2018, Tencent
