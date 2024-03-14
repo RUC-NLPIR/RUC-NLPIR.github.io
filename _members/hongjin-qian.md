@@ -1,7 +1,7 @@
 ---
 name: Hongjin Qian
 image: images/hongjin-qian.png
-role: PhD student
+role: phd
 links:
   home-page: https://chien.io/
   google-scholar: u9uPuxsAAAAJ
