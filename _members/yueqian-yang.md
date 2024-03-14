@@ -1,8 +1,9 @@
 ---
-name: YueQian Yang
+name: Yueqian Yang
 image: images/yueqian-yang.png
 role: master
 links:
+  home-page: 
   github: https://github.com/yyqchemic
 ---
 
