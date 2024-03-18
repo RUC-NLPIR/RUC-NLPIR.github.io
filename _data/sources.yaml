@@ -93,3 +93,447 @@
   type: paper
   date: '2024-2-20'
   link: https://arxiv.org/abs/2312.11036
+- id: doi:10.1016/j.aiopen.2023.08.001
+  title: 'Information Retrieval meets Large Language Models: A strategic report from Chinese IR community'
+  authors: 
+  - Qingyao Ai
+  - Ting Bai
+  - Zhao Cao
+  - Yi Chang
+  - Jiawei Chen
+  - Zhumin Chen
+  - Zhiyong Cheng
+  - Shoubin Dong
+  - Zhicheng Dou
+  - Fuli Feng
+  - Shen Gao
+  - Jiafeng Guo
+  - Xiangnan He
+  - Yanyan Lan
+  - Chenliang Li
+  - Yiqun Liu
+  - Ziyu Lyu
+  - Weizhi Ma
+  - Jun Ma
+  - Zhaochun Ren
+  - Pengjie Ren
+  - Zhiqiang Wang
+  - Mingwen Wang
+  - Ji-Rong Wen
+  - Le Wu
+  - Xin Xin
+  - Jun Xu
+  - Dawei Yin
+  - Peng Zhang
+  - Fan Zhang
+  - Weinan Zhang
+  - Min Zhang
+  - Xiaofei Zhu
+  publisher: AI Open
+  type: paper
+  date: '2023-08-01'
+  link: https://doi.org/10.1016/j.aiopen.2023.08.001
+- id: arxiv:2308.07107
+  title: 'Large Language Models for Information Retrieval: A Survey'
+  authors:
+  - Yutao Zhu
+  - Huaying Yuan
+  - Shuting Wang
+  - Jiongnan Liu
+  - Wenhan Liu
+  - Chenlong Deng
+  - Haonan Chen
+  - Zhicheng Dou
+  - Ji-Rong Wen
+  publisher: arXiv
+  type: paper
+  date: '2023-08-14'
+  link: https://arxiv.org/abs/2308.07107
+- id: arxiv:2310.07554
+  title: 'Retrieve Anything To Augment Large Language Models'
+  authors:
+  - Peitian Zhang
+  - Shitao Xiao
+  - Zheng Liu
+  - Zhicheng Dou
+  - Jian-Yun Nie
+  publisher: arXiv
+  type: paper
+  date: '2023-10-11'
+  link: https://arxiv.org/abs/2310.07554
+- id: arxiv:2308.15711
+  title: 'Optimizing Factual Accuracy in Text Generation through Dynamic Knowledge Selection'
+  authors:
+  - Hongjin Qian
+  - Zhicheng Dou
+  - Jiejun Tan
+  - Haonan Chen
+  - Haoqi Gu
+  - Ruofei Lai
+  - Xinyu Zhang
+  - Zhao Cao
+  - Ji-Rong Wen
+  publisher: arXiv
+  type: paper
+  date: '2023-08-30'
+  link: https://arxiv.org/abs/2308.15711
+- id: Information_Retrieval_Journal:10.1007/s10791-023-09427-0
+  title: 'DeepQFM: a deep learning based query facets mining method'
+  authors:
+  - Zhirui Deng
+  - Zhicheng Dou
+  - Ji-Rong Wen
+  publisher: IR Journal
+  type: paper
+  date: '2023-10-30'
+  link: https://link.springer.com/article/10.1007/s10791-023-09427-0
+- id: doi:10.1109/TKDE.2023.3332858
+  title: 'WebUltron: An Ultimate Retriever on Webpages Under the Model-Centric Paradigm'
+  authors:
+  - Yujia Zhou
+  - Jing Yao
+  - Ledell Wu
+  - Zhicheng Dou
+  - Ji-Rong Wen
+  publisher: IEEE TKDE
+  type: paper
+  date: '2023-11-15'
+  link: https://ieeexplore.ieee.org/document/10319350/
+- id: doi:10.18653/v1/2023.emnlp-main.768
+  title: 'Enhancing Generative Retrieval with Reinforcement Learning from Relevance Feedback'
+  authors:
+  - Yujia Zhou
+  - Zhicheng Dou
+  - Ji-Rong Wen
+  publisher: EMNLP 2023
+  type: paper
+  date: '2023-12-1'
+  link: https://aclanthology.org/2023.emnlp-main.768/
+- id: doi:10.18653/v1/2023.emnlp-main.116
+  title: 'Hybrid Inverted Index Is a Robust Accelerator for Dense Retrieval'
+  authors:
+  - Peitian Zhang
+  - Zheng Liu
+  - Shitao Xiao
+  - Zhicheng Dou
+  - Jing Yao
+  publisher: EMNLP 2023
+  type: paper
+  date: '2023-12-1'
+  link: https://aclanthology.org/2023.emnlp-main.116/
+- id: doi:10.18653/v1/2023.findings-emnlp.86
+  title: 'Large Language Models Know Your Contextual Search Intent: A Prompting Framework for Conversational Search'
+  authors: 
+    - Kelong Mao
+    - Zhicheng Dou
+    - Fengran Mo
+    - Jiewen Hou
+    - Haonan Chen
+    - Hongjin Qian
+  publisher: EMNLP 2023 Findings
+  type: paper
+  date: '2023-12-1'
+  link: https://aclanthology.org/2023.findings-emnlp.86/
+- id: doi:10.1145/3583780.3614993
+  title: 'NOVO: Learnable and Interpretable Document Identifiers for Model-Based IR'
+  authors: 
+    - Zihan Wang
+    - Yujia Zhou
+    - Yiteng Tu
+    - Zhicheng Dou
+  publisher: CIKM 2023
+  type: paper
+  date: '2023-10-21'
+  link: https://doi.org/10.1145/3583780.3614993
+- id: doi:10.1145/3583780.3615107
+  title: 'VILE: Block-Aware Visual Enhanced Document Retrieval'
+  authors: 
+    - Huaying Yuan
+    - Zhicheng Dou
+    - Yujia Zhou
+    - Yu Guo
+    - Ji-Rong Wen
+  publisher: CIKM 2023
+  type: paper
+  date: '2023-10-21'
+  link: https://doi.org/10.1145/3583780.3615107
+- id: doi:10.1145/3580305.3599477
+  title: 'PSLOG: Pretraining with Search Logs for Document Ranking'
+  authors: 
+    - Zhan Su
+    - Zhicheng Dou
+    - Yujia Zhou
+    - Ziyuan Zhao
+    - Ji-Rong Wen
+  publisher: KDD 2023
+  type: paper
+  date: '2023-8-4'
+  link: https://doi.org/10.1145/3580305.3599477
+- id: doi:10.1145/3580305.3599287
+  title: 'Contrastive Learning for User Sequence Representation in Personalized Product Search'
+  authors: 
+    - Shitong Dai
+    - Jiongnan Liu
+    - Zhicheng Dou
+    - Haonan Wang
+    - Lin Liu
+    - Bo Long
+    - Ji-Rong Wen
+  publisher: KDD 2023
+  type: paper
+  date: '2023-8-4'
+  link: https://doi.org/10.1145/3580305.3599287
+- id: doi:10.1145/3580305.3599389
+  title: 'Improving Search Clarification with Structured Information Extracted from Search Results'
+  authors: 
+    - Ziliang Zhao
+    - Zhicheng Dou
+    - Yu Guo
+    - Zhao Cao
+    - Xiaohua Cheng
+  publisher: KDD 2023
+  type: paper
+  date: '2023-8-4'
+  link: https://doi.org/10.1145/3580305.3599389
+- id: doi:10.18653/v1/2023.findings-acl.256
+  title: 'Search-oriented Conversational Query Editing'
+  authors: 
+    - Kelong Mao
+    - Zhicheng Dou
+    - Bang Liu
+    - Hongjin Qian
+    - Fengran Mo
+    - Xiangli Wu
+    - Xiaohua Cheng
+    - Zhao Cao
+  publisher: ACL 2023 Findings
+  type: paper
+  date: '2023-7-1'
+  link: https://doi.org/10.18653/v1/2023.findings-acl.256
+- id: doi:10.18653/v1/2023.findings-acl.148
+  title: 'Hence, Socrates is mortal: A Benchmark for Natural Language Syllogistic Reasoning'
+  authors: 
+    - Yongkang Wu
+    - Meng Han
+    - Yutao Zhu
+    - Lei Li
+    - Xinyu Zhang
+    - Ruofei Lai
+    - Xiaoguang Li
+    - Yuanhang Ren
+    - Zhicheng Dou
+    - Zhao Cao
+  publisher: ACL 2023 Findings
+  type: paper
+  date: '2023-7-1'
+  link: http://dx.doi.org/10.18653/v1/2023.findings-acl.148
+- id: doi:10.1145/3539618.3591900
+  title: 'JDsearch: A Personalized Product Search Dataset with Real Queries and Full Interactions'
+  authors: 
+    - Jiongnan Liu
+    - Zhicheng Dou
+    - Guoyu Tang
+    - Sulong Xu
+  publisher: SIGIR 2023 Resource
+  type: paper
+  date: '2023-7-18'
+  link: https://doi.org/10.1145/3539618.3591900
+- id: doi:10.1145/3543507.3583265
+  title: 'Learning Denoised and Interpretable Session Representation for Conversational Search'
+  authors: 
+    - Kelong Mao
+    - Hongjin Qian
+    - Fengran Mo
+    - Zhicheng Dou
+    - Bang Liu
+    - Xiaohua Cheng
+    - Zhao Cao
+  publisher: WWW 2023
+  type: paper
+  date: '2023-4-30'
+  link: https://doi.org/10.1145/3543507.3583265
+- id: doi:10.1145/3543507.3583488
+  title: 'Incorporating Explicit Subtopics in Personalized Search'
+  authors: 
+    - Shuting Wang
+    - Zhicheng Dou
+    - Jing Yao
+    - Yujia Zhou
+    - Ji-Rong Wen
+  publisher: WWW 2023
+  type: paper
+  date: '2023-4-30'
+  link: https://doi.org/10.1145/3543507.3583488
+- id: doi:10.1007/s11633-022-1373-9
+  title: 'DynamicRetriever: A Pre-trained Model-based IR System Without an Explicit Index'
+  authors: 
+    - Yujia Zhou
+    - Jing Yao
+    - Zhicheng Dou
+    - Ledell Yu Wu
+    - Ji-rong Wen
+  publisher: Machine Intelligence Research
+  type: paper
+  date: '2023-1-11'
+  link: https://doi.org/10.1007/s11633-022-1373-9
+- id: doi:10.1145/3580489
+  title: 'Contrastive Learning for Legal Judgment Prediction'
+  authors: 
+    - Han Zhang
+    - Zhicheng Dou
+    - Yutao Zhu
+    - Ji-rong Wen
+  publisher: ACM TOIS
+  type: paper
+  date: '2023-4-21'
+  link: https://doi.org/10.1145/3580489
+- id: doi:10.1145/3539597.3570391
+  title: 'Cognition-aware Knowledge Graph Reasoning for Explainable Recommendation'
+  authors: 
+    - Qingyu Bing
+    - Qiannan Zhu
+    - Zhicheng Dou
+  publisher: WSDM 2023
+  type: paper
+  date: '2023-2-27'
+  link: https://doi.org/10.1145/3539597.3570391
+- id: doi:10.1145/3539597.3570390
+  title: 'Heterogeneous Graph based Context-aware Document Ranking'
+  authors: 
+    - Shuting Wang
+    - Zhicheng Dou
+    - Yutao Zhu
+  publisher: WSDM 2023
+  type: paper
+  date: '2023-2-27'
+  link: https://doi.org/10.1145/3539597.3570390
+- id: doi:10.1609/aaai.v37i4.25607
+  title: 'Learning from the Wisdom of Crowds: Exploiting Similar Sessions for Session Search'
+  authors: 
+    - Yuhang Ye
+    - Zhonghua Li
+    - Zhicheng Dou
+    - Yutao Zhu
+    - Changwang Zhang
+    - Shangquan Wu
+    - Zhao Cao
+  publisher: AAAI 2023
+  type: paper
+  date: '2023-6-26'
+  link: https://doi.org/10.1609/aaai.v37i4.25607
+- id: doi:10.1007/978-981-99-6207-5_3
+  title: 'Learning on Structured Documents for Conditional Question Answering'
+  authors: 
+    - Zihan Wang
+    - Hongjin Qian
+    - Zhicheng Dou
+  publisher: CCL 2023
+  type: paper
+  date: '2023-9-20'
+  link: https://doi.org/10.1007/978-981-99-6207-5_3
+- id: doi.org/10.1007/978-981-99-6207-5_27
+  title: 'Case Retrieval for Legal Judgment Prediction in Legal Artificial Intelligence'
+  authors: 
+    - Han Zhang
+    - Zhicheng Dou
+  publisher: CCL 2023
+  type: paper
+  date: '2023-9-20'
+  link: https://doi.org/10.1007/978-981-99-6207-5_27
+- id: doi:10.1007/978-3-031-28238-6_6
+  title: 'Topic-Enhanced Personalized Retrieval-Based Chatbot'
+  authors: 
+    - Hongjin Qian
+    - Zhicheng Dou
+  publisher: ECIR 2023
+  type: paper
+  date: '2023-3-17'
+  link: https://doi.org/10.1007/978-3-031-28238-6_6
+- id: arxiv:2304.04358
+  title: 'WebBrain: Learning to Generate Factually Correct Articles for Queries by Grounding on Large Web Corpus'
+  authors: 
+    - Hongjing Qian
+    - Yutao Zhu
+    - Zhicheng Dou
+    - Haoqi Gu
+    - Xinyu Zhang
+    - Zheng Liu
+    - Ruofei Lai
+    - Zhao Cao
+    - Jian-Yun Nie
+    - Ji-Rong Wen
+  publisher: arXiv
+  type: paper
+  date: '2023-4-10'
+  link: https://arxiv.org/abs/2304.04358
+- id: arxiv:2305.13859
+  title: 'Term-Sets Can Be Strong Document Identifiers For Auto-Regressive Search Engines'
+  authors: 
+    - Peitian Zhang
+    - Zheng Liu
+    - Yujia Zhou
+    - Zhicheng Dou
+    - Zhao Cao
+  publisher: arXiv
+  type: paper
+  date: '2023-5-23'
+  link: https://arxiv.org/abs/2305.13859
+- id: arxiv:2306.05212
+  title: 'RETA-LLM: A Retrieval-Augmented Large Language Model Toolkit'
+  authors: 
+    - Jiongnan Liu
+    - Jiajie Jin
+    - Zihan Wang
+    - Jiehan Cheng
+    - Zhicheng Dou
+    - Ji-Rong Wen
+  publisher: arXiv
+  type: paper
+  date: '2023-6-8'
+  link: https://arxiv.org/abs/2306.05212
+- id: doi:10.1145/3573204
+  title: 'CDSM: Cascaded Deep Semantic Matching on Textual Graphs Leveraging Ad-hoc Neighbor Selection'
+  authors: 
+    - Jing Yao
+    - Zheng Liu
+    - Junhan Yang
+    - Zhicheng Dou
+    - Xing Xie
+    - Ji-rong Wen
+  publisher: ACM TIST
+  type: paper
+  date: '2023-2-16'
+  link: https://doi.org/10.1145/3573204
+- id: doi:10.1109/TKDE.2021.3126066
+  title: 'Enhancing Potential Re-finding in Personalized Search with Hierarchical Memory Networks'
+  authors: 
+    - Yujia Zhou
+    - Zhicheng Dou
+    - Ji-Rong Wen
+  publisher: IEEE TKDE
+  type: paper
+  date: '2023-4-1'
+  link: https://doi.org/10.1109/TKDE.2021.3126066
+- id: doi:10.1145/3529955
+  title: 'Integrating Representation and Interaction for Context-aware Document Ranking'
+  authors: 
+    - Haonan Chen
+    - Zhicheng Dou
+    - Qiannan Zhu
+    - Xiaochen Zuo
+    - Ji-Rong Wen
+  publisher: ACM TOIS
+  type: paper
+  date: '2023-1-10'
+  link: https://doi.org/10.1145/3529955
+- id: doi:10.1145/3544103
+  title: 'GDESA: Greedy Diversity Encoder with Self-Attention for Search Results Diversification'
+  authors: 
+    - Xubo Qin
+    - Zhicheng Dou
+    - Yutao Zhu
+    - Ji-Rong Wen
+  publisher: ACM TOIS
+  type: paper
+  date: '2023-4-3'
+  link: https://doi.org/10.1145/3544103
