@@ -177,7 +177,7 @@
   type: paper
   date: '2023-08-30'
   link: https://arxiv.org/abs/2308.15711
-- id: Information_Retrieval_Journal:10.1007/s10791-023-09427-0
+- id: doi:10.1007/s10791-023-09427-0
   title: 'DeepQFM: a deep learning based query facets mining method'
   authors:
   - Zhirui Deng
@@ -431,7 +431,7 @@
   type: paper
   date: '2023-9-20'
   link: https://doi.org/10.1007/978-981-99-6207-5_3
-- id: doi.org/10.1007/978-981-99-6207-5_27
+- id: doi:10.1007/978-981-99-6207-5_27
   title: 'Case Retrieval for Legal Judgment Prediction in Legal Artificial Intelligence'
   authors: 
     - Han Zhang
