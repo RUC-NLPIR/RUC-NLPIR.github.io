@@ -537,3 +537,208 @@
   type: paper
   date: '2023-4-3'
   link: https://doi.org/10.1145/3544103
+- id: doi:10.18653/v1/2022.emnlp-main.190
+  title: 'ConvTrans: Transforming Web Search Sessions for Conversational Dense Retrieval'
+  authors:
+  - Kelong Mao
+  - Zhicheng Dou
+  - Hongjin Qian
+  - Fengran Mo
+  - Xiaohua Cheng
+  - Zhao Cao
+  publisher: EMNLP 2022
+  type: paper
+  date: '2022-12-1'
+  link: https://aclanthology.org/2022.emnlp-main.190
+- id: doi:10.18653/v1/2022.emnlp-main.311
+  title: 'Explicit Query Rewriting for Conversational Dense Retrieval'
+  authors:
+  - Hongjin Qian
+  - Zhicheng Dou
+  publisher: EMNLP 2022
+  type: paper
+  date: '2022-12-1'
+  link: https://aclanthology.org/2022.emnlp-main.311
+- id: arXiv:2208.09129
+  title: 'Coarse-to-Fine: Hierarchical Multi-task Learning for Natural Language Understanding'
+  authors:
+  - Zhaoye Fei
+  - Yu Tian
+  - Yongkang Wu
+  - Xinyu Zhang
+  - Yutao Zhu
+  - Zheng Liu
+  - Jiawen Wu
+  - Dejiang Kong
+  - Ruofei Lai
+  - Zhao Cao
+  - Zhicheng Dou
+  - Xipeng Qiu
+  publisher: COLING 2022
+  type: paper
+  date: '2022-10-1'
+  link: https://aclanthology.org/2022.coling-1.439
+- id: doi:10.18653/v1/2022.findings-emnlp.73
+  title: 'MCP: Self-supervised Pre-training for Personalized Chatbots with Multi-level Contrastive Sampling'
+  authors:
+  - Zhaoheng Huang
+  - Zhicheng Dou
+  - Yutao Zhu
+  - Zhengyi Ma
+  publisher: EMNLP 2022 Findings
+  type: paper
+  date: '2022-12-1'
+  link: https://aclanthology.org/2022.findings-emnlp.73
+- id: doi:10.1145/3534678.3539459
+  title: 'Knowledge Enhanced Search Result Diversification'
+  authors:
+  - Zhan Su
+  - Zhicheng Dou
+  - Yutao Zhu
+  - Ji-Rong Wen
+  publisher: KDD 2022
+  type: paper
+  date: '2022-8-14'
+  link: https://dl.acm.org/doi/abs/10.1145/3534678.3539459
+- id: doi:10.1145/3511808.3557328
+  title: 'From Easy to Hard: A Dual Curriculum Learning Framework for Context-Aware Document Ranking'
+  authors:
+  - Yutao Zhu
+  - Jian-Yun Nie
+  - Yixuan Su
+  - Haonan Chen
+  - Xinyu Zhang
+  - Zhicheng Dou
+  publisher: CIKM 2022
+  type: paper
+  date: '2022-10-17'
+  link: https://dl.acm.org/doi/10.1145/3511808.3557328
+- id: doi:10.1145/3511808.3557310
+  title: 'Enhancing User Behavior Sequence Modeling by Generative Tasks for Session Search'
+  authors:
+  - Haonan Chen
+  - Zhicheng Dou
+  - Yutao Zhu
+  - Zhao Cao
+  - Xiaohua Cheng
+  - Ji-Rong Wen
+  publisher: CIKM 2022
+  type: paper
+  date: '2022-10-17'
+  link: https://dl.acm.org/doi/10.1145/3511808.3557310
+- id: doi:10.18653/v1/2022.naacl-main.426
+  title: 'Less is More: Learning to Refine Dialogue History for Personalized Dialogue Generation'
+  authors:
+  - Hanxun Zhong
+  - Zhicheng Dou
+  - Yutao Zhu
+  - Hongjin Qian
+  - Ji-Rong Wen
+  publisher: NAACL 2022
+  type: paper
+  date: '2022-7-1'
+  link: https://aclanthology.org/2022.naacl-main.426
+- id: doi:10.1145/3477495.3531961
+  title: 'Curriculum Contrastive Context Denoising for Few-shot Conversational Dense Retrieval'
+  authors:
+  - Kelong Mao
+  - Zhicheng Dou
+  - Hongjin Qian
+  publisher: SIGIR 2022
+  type: paper
+  date: '2022-7-7'
+  link: https://dl.acm.org/doi/10.1145/3477495.3531961
+- id: doi:10.1145/3477495.3532086
+  title: 'Webformer: Pre-training with Web Pages for Information Retrieval'
+  authors:
+  - Yu Guo
+  - Zhengyi Ma
+  - Jiaxin Mao
+  - Hongjin Qian
+  - Xinyu Zhang
+  - Hao Jiang
+  - Zhao Cao
+  - Zhicheng Dou
+  publisher: SIGIR 2022
+  type: paper
+  date: '2022-7-7'
+  link: https://dl.acm.org/doi/abs/10.1145/3477495.3532086
+- id: doi:10.1145/3477495.3531981
+  title: 'Generating Clarifying Questions with Web Search Results'
+  authors:
+  - Ziliang Zhao
+  - Zhicheng Dou
+  - Jiaxin Mao
+  - Ji-Rong Wen
+  publisher: SIGIR 2022
+  type: paper
+  date: '2022-7-7'
+  link: https://dl.acm.org/doi/abs/10.1145/3477495.3531981
+- id: doi:10.1145/3485447.3511962
+  title: 'Socialformer: Social Network Inspired Long Document Modeling for Document Ranking'
+  authors:
+  - Yujia Zhou
+  - Zhicheng Dou
+  - Huaying Yuan
+  - Zhengyi Ma
+  publisher: WWW 2022
+  type: paper
+  date: '2022-4-25'
+  link: https://dl.acm.org/doi/10.1145/3485447.3511962
+- id: doi:10.1145/3485447.3511964
+  title: 'A Category-aware Multi-interest Model for Personalized Product Search'
+  authors:
+  - Jiongnan Liu
+  - Zhicheng Dou
+  - Qiannan Zhu
+  - Ji-Rong Wen
+  publisher: WWW 2022
+  type: paper
+  date: '2022-4-25'
+  link: https://dl.acm.org/doi/10.1145/3485447.3511964
+- id: doi:10.1145/3485447.3511956
+  title: 'A Gain-Tuning Dynamic Negative Sampler for Recommendation'
+  authors:
+  - Qiannan Zhu
+  - Haobo Zhang
+  - Qing He
+  - Zhicheng Dou
+  publisher: WWW 2022
+  type: paper
+  date: '2022-4-25'
+  link: https://dl.acm.org/doi/10.1145/3485447.3511956
+- id: doi:10.1145/3488560.3498415
+  title: 'Improving Session Search by Modeling Multi-Granularity Historical Query Change'
+  authors:
+  - Xiaochen Zuo
+  - Zhicheng Dou
+  - Ji-Rong Wen
+  publisher: WSDM 2022
+  type: paper
+  date: '2022-2-15'
+  link: https://dl.acm.org/doi/abs/10.1145/3488560.3498415
+- id: doi:10.1145/3488560.3498447
+  title: 'Improving Personalized Search with Dual-Feedback Network'
+  authors:
+  - Chenlong Deng
+  - Yujia Zhou
+  - Zhicheng Dou
+  publisher: WSDM 2022
+  type: paper
+  date: '2022-2-15'
+  link: https://dl.acm.org/doi/10.1145/3488560.3498447
+- id: doi:10.1145/3488560.3498412
+  title: 'Leveraging Multi-view Inter-passage Interactions for Neural Document Ranking'
+  authors:
+  - Chengzhen Fu
+  - Enrui Hu
+  - Letian Feng
+  - Zhicheng Dou
+  - Yantao Jia
+  - Lei Chen
+  - Pan Yu
+  - Zhao Cao
+  publisher: WSDM 2022
+  type: paper
+  date: '2022-2-15'
+  link: https://dl.acm.org/doi/abs/10.1145/3488560.3498412
