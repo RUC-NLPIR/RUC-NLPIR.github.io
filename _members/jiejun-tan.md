@@ -9,4 +9,4 @@ links:
   github: plageon
 ---
 
-Jiejun Tan is a distinguished PhD scholar at the esteemed Gaoling School of Artificial Intelligence at Renmin University of China. He is currently under the expert tutelage of Prof. Jirong Wen and Prof. Zhicheng Dou. His academic journey began at Wuhan University where he acquired his bachelor’s degree in 2023. Jiejun’s research primarily revolves around retrieval-augmented generation, utilizing large language models for information retrieval, and aligning large language models. His focus and dedication towards these areas of study reflect his commitment and passion.
+Jiejun Tan is currently a PhD scholar at rhe Gaoling School of Artificial Intelligence, Renmin University of China. He is currently under the expert tutelage of Prof. Jirong Wen and Prof. Zhicheng Dou. His academic journey began at Wuhan University where he acquired his bachelor’s degree in 2023. Jiejun’s research primarily revolves around retrieval-augmented generation, utilizing large language models for information retrieval, and aligning large language models. His focus and dedication towards these areas of study reflect his commitment and passion.
