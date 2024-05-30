@@ -8,4 +8,4 @@ links:
   github: ShootingWong
 ---
 
-Shuting Wang is currently a Ph.D. candidate at the Gaoling School of Artificial Intelligence, Renmin University of China, where she is mentored by Prof. Zhicheng Dou. She earned Bachelor degree from Shandong University (2021). Her research interests include retrieval-augmented generation, large language models for information retrieval, session-based document ranking and personalized search.
+Shuting Wang is currently a Ph.D. candidate at the Gaoling School of Artificial Intelligence, Renmin University of China, where she is mentored by Prof. Zhicheng Dou. She earned a Bachelor’s degree from Shandong University (2021). Her research interests include retrieval-augmented generation, large language models for information retrieval, session-based document ranking, and personalized search.
