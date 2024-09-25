@@ -29,7 +29,7 @@ nav:
 - Sha Hu, 2010-2015, Southwest University
 
 ###### Master
-- Yueqian Yang, 2021-2024, 
+- Yueqian Yang, 2021-2024, Xiaomi Inc.
 - Yunhao Tao, 2021-2024, Kuaishou Technology
 - Hanxun Zhong, 2020-2023, Bytedance
 - Yueyuan Ma, 2020-2023, China Mobile
