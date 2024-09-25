@@ -11,7 +11,7 @@ RUC-NLPIR lab is from Gaoling School of Artificial Intelligence, Renmin Universi
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research explores key challenges in Information Retrieval (IR) and Natural Language Processing (NLP), with a focus on cutting-edge areas such as Retrieval-Augmented Generation (RAG), conversational search, personalized and diversified search, and legal AI.
 
 {%
   include button.html
