@@ -23,6 +23,7 @@ nav:
 - Qiannan Zhu, 2021-2023, Beijing Normal University
 
 ###### PhD
+- Hongjin Qian, 2020-2024, Beijing Academy of Artificial Intelligence
 - Yujia Zhou, 2019-2024, Tsinghua University
 - Han Zhang, 2018-2023, China Unicom
 - Xubo Qin, 2017-2021, JD
