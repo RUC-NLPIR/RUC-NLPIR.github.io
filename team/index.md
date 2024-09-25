@@ -23,11 +23,14 @@ nav:
 - Qiannan Zhu, 2021-2023, Beijing Normal University
 
 ###### PhD
+- Yujia Zhou, 2019-2024, Tsinghua University
 - Han Zhang, 2018-2023, China Unicom
 - Xubo Qin, 2017-2021, JD
 - Sha Hu, 2010-2015, Southwest University
 
 ###### Master
+- Yueqian Yang, 2021-2024, 
+- Yunhao Tao, 2021-2024, Kuaishou Technology
 - Hanxun Zhong, 2020-2023, Bytedance
 - Yueyuan Ma, 2020-2023, China Mobile
 - Didi Lian, 2020-2023, China Life Insurance
