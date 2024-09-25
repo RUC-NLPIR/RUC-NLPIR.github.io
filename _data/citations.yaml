@@ -180,6 +180,32 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1145/3653672
+  title: Passage-aware Search Result Diversification
+  authors:
+  - Zhan Su
+  - Zhicheng Dou
+  - Yutao Zhu
+  - Ji-Rong Wen
+  publisher: ACM TOIS
+  date: '2024-05-13'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2024_tois_passagesrd.pdf
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s10115-024-02138-y
+  title: How to personalize and whether to personalize? Candidate documents decide
+  authors:
+  - Wenhan Liu
+  - Yujia Zhou
+  - Yutao Zhu
+  - Zhicheng Dou
+  publisher: KAIS
+  date: '2024-05-27'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2024_kis_wenhan_liu_per.pdf
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.aiopen.2023.08.001
   title: 'Information Retrieval meets Large Language Models: A strategic report from
     Chinese IR community'
