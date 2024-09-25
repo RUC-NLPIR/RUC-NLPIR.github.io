@@ -38,7 +38,7 @@ Our research explores key challenges in IR and NLP, with a focus on cutting-edge
 
 {% capture text %}
 
-The RUC-NLPIR lab at Renmin University of China is a dynamic and collaborative group of researchers passionate about IR and NLP. Led by Professor Zhicheng Dou, the team fosters an open and innovative environment where students and researchers work closely together to tackle real-world challenges. With a strong emphasis on creativity, teamwork, and hands-on problem-solving, we strive to push the boundaries of AI research while supporting each other's growth and development.
+The RUC-NLPIR lab at Renmin University of China is a dynamic and collaborative group of researchers passionate about IR and NLP. Led by Prof. Zhicheng Dou, the team fosters an open and innovative environment where students and researchers work closely together to tackle real-world challenges. With a strong emphasis on creativity, teamwork, and hands-on problem-solving, we strive to push the boundaries of AI research while supporting each other's growth and development.
 
 {%
   include button.html
