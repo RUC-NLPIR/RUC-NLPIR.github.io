@@ -3,7 +3,7 @@
 
 # RUC-NLPIR's Website
 
-The **RUC-NLPIR Lab**, part of the Gaoling School of Artificial Intelligence at Renmin University of China, is led by **Prof. Zhicheng Dou**. The lab specializes in cutting-edge research in **Information Retrieval (IR)** and **Natural Language Processing (NLP)**.
+The **RUC-NLPIR Lab**, part of the Gaoling School of Artificial Intelligence at Renmin University of China, is led by **Prof. Zhicheng Dou**. The lab specializes in cutting-edge research in **information retrieval (IR)** and **natural language processing (NLP)**.
 
 **Prof. Zhicheng Dou** is a professor at Renmin University of China and serves as the Vice Dean of the Gaoling School of Artificial Intelligence. He earned his Ph.D. and B.S. degrees in Computer Science and Technology from Nankai University in 2008 and 2003, respectively. Prior to joining Renmin University in 2014, he worked at Microsoft Research Asia from 2008 to 2014. His research interests include **IR**, **NLP**, and **large language models**, with a particular focus on **generative IR**. Prof. Dou has received several prestigious recognitions, including a Paper Award Nomination at TheWebConf 2023 (spotlight), the Best Paper Runner-Up Award at SIGIR 2013, and the Best Paper Award at AIRS 2012. He has served as Program Co-Chair for SIGIR 2019 (short), AIRS 2017, and NTCIR-16/17. In addition to his academic pursuits, Prof. Dou enjoys turning research ideas into real-world systems through coding.
 
