@@ -30,7 +30,7 @@ Our research explores key challenges in IR and NLP, with a focus on cutting-edge
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/pic2.jpg"
   link="research"
   title="Our Research"
   text=text
