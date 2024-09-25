@@ -3,7 +3,13 @@
 
 # RUC-NLPIR's Website
 
-RUC-NLPIR lab is from Gaoling School of Artificial Intelligence, Renmin University of China. This lab is under the supervision of Prof. Zhicheng Dou, with special interests in information retrieval and natural language processing.
+The RUC-NLPIR Lab, part of the Gaoling School of Artificial Intelligence at Renmin University of China, is led by Prof. Zhicheng Dou. The lab specializes in cutting-edge research in Information Retrieval (IR) and Natural Language Processing (NLP).
+
+Prof. Zhicheng Dou is a professor at Renmin University of China and serves as the Vice Dean of the Gaoling School of Artificial Intelligence. He earned his Ph.D. and B.S. degrees in Computer Science and Technology from Nankai University in 2008 and 2003, respectively. Prior to joining Renmin University in 2014, he worked at Microsoft Research Asia from 2008 to 2014. His research interests include IR, NLP, and large language models, with a particular focus on generative IR. Prof. Dou has received several prestigious recognitions, including a Paper Award Nomination at TheWebConf 2023 (spotlight), the Best Paper Runner-Up Award at SIGIR 2013, and the Best Paper Award at AIRS 2012. He has served as Program Co-Chair for SIGIR 2019 (short), AIRS 2017, and NTCIR-16/17. In addition to his academic pursuits, Prof. Dou enjoys turning research ideas into real-world systems through coding.
+
+Contact: dou AT ruc.edu.cn
+
+We are currently recruiting highly motivated students. If you are interested in joining the team, please reach out to Professor Zhicheng Dou via email.
 
 {% include section.html %}
 
@@ -11,7 +17,7 @@ RUC-NLPIR lab is from Gaoling School of Artificial Intelligence, Renmin Universi
 
 {% capture text %}
 
-Our research explores key challenges in Information Retrieval (IR) and Natural Language Processing (NLP), with a focus on cutting-edge areas such as Retrieval-Augmented Generation (RAG), conversational search, personalized and diversified search, and legal AI.
+Our research explores key challenges in IR and NLP, with a focus on cutting-edge areas such as retrieval-augmented generation (RAG), conversational search, personalized and diversified search, and legal AI.
 
 {%
   include button.html
