@@ -1,66 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: arxiv:2401.06532
-  title: 'INTERS: Unlocking the Power of Large Language Models in Search with Instruction
-    Tuning'
-  authors:
-  - Yutao Zhu
-  - Peitian Zhang
-  - Chenghao Zhang
-  - Yifei Chen
-  - Binyu Xie
-  - Zhicheng Dou
-  - Zheng Liu
-  - Ji-Rong Wen
-  publisher: arXiv
-  date: '2024-01-12'
-  link: https://arxiv.org/abs/2401.06532
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: arxiv:2401.03462
-  title: 'Soaring from 4K to 400K: Extending LLM''s Context with Activation Beacon'
-  authors:
-  - Peitian Zhang
-  - Zheng Liu
-  - Shitao Xiao
-  - Ninglu Shao
-  - Qiwei Ye
-  - Zhicheng Dou
-  publisher: arXiv
-  date: '2024-01-07'
-  link: https://arxiv.org/abs/2401.03462
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: arxiv:2402.11626
-  title: Metacognitive Retrieval-Augmented Large Language Models
-  authors:
-  - Yujia Zhou
-  - Zheng Liu
-  - Jiajie Jin
-  - Jian-Yun Nie
-  - Zhicheng Dou
-  publisher: WWW 2024
-  date: '2024-02-18'
-  link: https://arxiv.org/abs/2402.11626
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: arxiv:2402.10548
-  title: Cognitive Personalized Search Integrating Large Language Models with an Efficient
-    Memory Mechanism
-  authors:
-  - Yujia Zhou
-  - Qiannan Zhu
-  - Jiajie Jin
-  - Zhicheng Dou
-  publisher: WWW 2024
-  date: '2024-02-16'
-  link: https://arxiv.org/abs/2402.10548
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1109/TKDE.2023.3291006
   title: Integrated Personalized and Diversified Search Based on Search Logs
   authors:
@@ -111,6 +50,133 @@
   publisher: AAAI 2024
   date: '2024-02-20'
   link: https://arxiv.org/abs/2312.11036
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TKDE.2023.3297331
+  title: Query-Aware Explainable Product Search With Reinforcement Knowledge Graph
+    Reasoning
+  authors:
+  - Qiannan Zhu
+  - Haobo Zhang
+  - Qing He
+  - Zhicheng Dou
+  publisher: IEEE TKDE
+  date: '2024-03-01'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2024_TKDE_Query-Aware_Explainable_Product_Search_With_Reinforcement_Knowledge_Graph_Reasoning.pdf
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3616855.3635851
+  title: 'CL4DIV: A Contrastive Learning Framework for Search Result Diversification'
+  authors:
+  - Zhirui Deng
+  - Zhicheng Dou
+  - Yutao Zhu
+  - Ji-Rong Wen
+  publisher: ACM TOIS
+  date: '2024-03-04'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2024_wsdm_srd.pdf
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3652852
+  title: Multi-grained Document Modeling for Search Result Diversification
+  authors:
+  - Zhirui Deng
+  - Zhicheng Dou
+  - Zhan Su
+  - Ji-Rong Wen
+  publisher: ACM TOIS
+  date: '2024-04-27'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2024_tois_multigrainedsrd.pdf
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3639818
+  title: An Analysis on Matching Mechanisms and Token Pruning for Late-interaction
+    Models
+  authors:
+  - Qi Liu
+  - Gang Guo
+  - Jiaxin Mao
+  - Zhicheng Dou
+  - Ji-Rong Wen
+  - Hao Jiang
+  - Xinyu Zhang
+  - Zhao Cao
+  publisher: ACM TOIS
+  date: '2024-04-29'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2024_tois_qiliu.pdf
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3589334.3645482
+  title: Cognitive Personalized Search Integrating Large Language Models with an Efficient
+    Memory Mechanism
+  authors:
+  - Yujia Zhou
+  - Qiannan Zhu
+  - Jiajie Jin
+  - Zhicheng Dou
+  publisher: TheWebConf 2024
+  date: '2024-05-13'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2024_www_cog_ps.pdf
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3589334.3645481
+  title: Metacognitive Retrieval-Augmented Large Language Models
+  authors:
+  - Yujia Zhou
+  - Zheng Liu
+  - Jiajie Jin
+  - Jian-Yun Nie
+  - Zhicheng Dou
+  publisher: TheWebConf 2024
+  date: '2024-05-13'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2024_www_metacog_rag.pdf
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3589334.3645712
+  title: Generating Multi-turn Clarification for Web Information Seeking
+  authors:
+  - Ziliang Zhao
+  - Zhicheng Dou
+  publisher: TheWebConf 2024
+  date: '2024-05-13'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2024_www_mturn_clarification.pdf
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3589334.3645424
+  title: Mining Exploratory Queries for Conversational Search
+  authors:
+  - Wenhan Liu
+  - Ziliang Zhao
+  - Yutao Zhu
+  - Zhicheng Dou
+  publisher: TheWebConf 2024
+  date: '2024-05-13'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2024_www_expqueries.pdf
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3589335.3641299
+  title: Information Retrieval Meets Large Language Models
+  authors:
+  - Zheng Liu
+  - Yujia Zhou
+  - Yutao Zhu
+  - Jianxun Lian
+  - Chaozhuo Li
+  - Zhicheng Dou
+  - Defu Lian
+  - Jian-Yun Nie
+  publisher: TheWebConf 2024
+  date: '2024-05-13'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2024_www_workshop.pdf
   type: paper
   plugin: sources.py
   file: sources.yaml
