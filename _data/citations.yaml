@@ -206,6 +206,82 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1145/3603167
+  title: 'ROGER: Ranking-oriented Generative Retrieval'
+  authors:
+  - Yujia Zhou
+  - Jing Yao
+  - Zhicheng Dou
+  - Yiteng Tu
+  - Ledell Wu
+  - Tat-Seng Chua
+  - Ji-Rong Wen
+  publisher: ACM TOIS
+  date: '2024-06-03'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2024_tois_roger.pdf
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3626772.3657888
+  title: 'JDivPS: A Diversified Product Search Dataset'
+  authors:
+  - Zhirui Deng
+  - Zhicheng Dou
+  - Yutao Zhu
+  - Xubo Qin
+  - Pengchao Cheng
+  - Jiangxu Wu
+  - Hao Wang
+  publisher: SIGIR 2024 Resource
+  date: '2024-07-14'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2024_sigir_jdivps.pdf
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3626772.3657797
+  title: Generative Retrieval via Term Set Generation
+  authors:
+  - Peitian Zhang
+  - Zheng Liu
+  - Yujia Zhou
+  - Zhicheng Dou
+  - Fangchao Liu
+  - Zhao Cao
+  publisher: SIGIR 2024
+  date: '2024-07-14'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2024_sigir_termset.pdf
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3626772.3657778
+  title: 'CorpusLM: Towards a Unified Language Model on Corpus for Knowledge-Intensive
+    Tasks'
+  authors:
+  - Xiaoxi Li
+  - Zhicheng Dou
+  - Yujia Zhou
+  - Fangchao Liu
+  publisher: SIGIR 2024
+  date: '2024-07-14'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2024_sigir_corpuslm.pdf
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.18653/v1/2024.findings-acl.139
+  title: 'An Element is Worth a Thousand Words: Enhancing Legal Case Retrieval by
+    Incorporating Legal Elements'
+  authors:
+  - Chenlong Deng
+  - Zhicheng Dou
+  - Yujia Zhou
+  - Peitian Zhang
+  - Kelong Mao
+  publisher: ACL 2024 Findings
+  date: '2024-08-11'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2024_ACL_Chenlong_Deng__Enhancing_Legal_Case_Retrieval_by_Incorporating_Legal_Elements.pdf
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.aiopen.2023.08.001
   title: 'Information Retrieval meets Large Language Models: A strategic report from
     Chinese IR community'
