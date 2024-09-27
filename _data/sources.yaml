@@ -1262,7 +1262,7 @@
   type: paper
   date: '2019-09-23'
   link: http://playbigdata.ruc.edu.cn/dou/publication/2019_IR_Journal_ReBoost_aam.pdf
-- id: doi.org:10.1007/978-3-030-31624-2_7
+- id: doi:10.1007/978-3-030-31624-2_7
   title: 'Document-Level Named Entity Recognition by Incorporating Global and Neighbor Features'
   authors:
   - Anwen Hu
