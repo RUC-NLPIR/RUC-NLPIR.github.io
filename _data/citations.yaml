@@ -1458,6 +1458,76 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/TKDE.2018.2810873
+  title: Supervised Search Result Diversification via Subtopic Attention
+  authors:
+  - Zhengbao Jiang
+  - Zhicheng Dou
+  - Wayne Xin Zhao
+  - Jian-Yun Nie
+  - Ming Yue
+  - Ji-Rong Wen
+  publisher: IEEE TKDE
+  date: '2018-10-01'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2018_TKDE_DSSA.pdf
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TKDE.2017.2729559
+  title: Search Result Diversity Evaluation Based on Intent Hierarchies
+  authors:
+  - Xiao-Jie Wang
+  - Ji-Rong Wen
+  - Zhicheng Dou
+  - Tetsuya Sakai
+  - Rui Zhang
+  publisher: IEEE TKDE
+  date: '2018-01-01'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2018_TKDE_HieEval.pdf
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3269206.3271728
+  title: Personalizing Search Results Using Hierarchical RNN with Query-aware Attention
+  authors:
+  - Songwei Ge
+  - Zhicheng Dou
+  - Zhengbao Jiang
+  - Jian-Yun Nie
+  - Ji-Rong Wen
+  publisher: CIKM 2018
+  date: '2018-10-17'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2018_CIKM_HRNN.pdf
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3077136.3080805
+  title: Learning to Diversify Search Results via Subtopic Attention
+  authors:
+  - Zhengbao Jiang
+  - Ji-Rong Wen
+  - Zhicheng Dou
+  - Wayne Xin Zhao
+  - Jian-Yun Nie
+  - Ming Yue
+  publisher: SIGIR 2017
+  date: '2017-08-07'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2017_SIGIR_DSSA.pdf
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TKDE.2016.2623782
+  title: Generating Query Facets Using Knowledge Bases
+  authors:
+  - Zhengbao Jiang
+  - Zhicheng Dou
+  - Ji-Rong Wen
+  publisher: IEEE TKDE
+  date: '2017-02-01'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2017_TKDE_FacetKB.pdf
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/2911451.2911497
   title: Evaluating Search Result Diversity using Intent Hierarchies
   authors:
