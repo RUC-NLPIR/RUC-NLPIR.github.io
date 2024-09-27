@@ -1227,6 +1227,54 @@
   type: paper
   date: '2022-2-15'
   link: https://dl.acm.org/doi/abs/10.1145/3488560.3498412
+- id: doi:10.1145/2911451.2911497
+  title: 'Evaluating Search Result Diversity using Intent Hierarchies'
+  authors:
+  - Xiaojie Wang
+  - Zhicheng Dou
+  - Tetsuya Sakai
+  - Ji-Rong Wen
+  publisher: SIGIR 2016
+  type: paper
+  date: '2016-07-07'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2016_SIGIR_HieIntentEval.pdf
+- id: doi:10.1109/TKDE.2015.2475735
+  title: 'Automatically Mining Facets for Queries from Their Search Results'
+  authors:
+  - Zhicheng Dou
+  - Zhengbao Jiang
+  - Sha Hu
+  - Ji-Rong Wen
+  - Ruihua Song
+  publisher: IEEE TKDE
+  type: paper
+  date: '2016-02-01'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2016_TKDE_FacetMining.pdf
+- id: doi:10.1007/s11280-015-0374-9
+  title: 'Following the Dynamic Block on the Web'
+  authors:
+  - Sha Hu
+  - Ji-Rong Wen
+  - Zhicheng Dou
+  - Shuo Shang
+  publisher: WWW journal
+  type: paper
+  date: '2016-11-01'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2016_WWWJ_FollowBlock.pdf
+- id: doi:10.1007/978-3-319-48051-0
+  title: 'Information Retrieval Technology'
+  authors:
+  - Shaoping Ma
+  - Ji-Rong Wen
+  - Yiqun Liu
+  - Zhicheng Dou
+  - Min Zhang
+  - Yi Chang
+  - Xin Zhao
+  publisher: AIRS 2016
+  type: paper
+  date: '2016-11-30'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2016_AIRS%202016%20Preface.pdf
 - id: doi:10.1609/aaai.v29i1.9183
   title: 'Content-based Collaborative Filtering for News Topic Recommendation'
   authors:
