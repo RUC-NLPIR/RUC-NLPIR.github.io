@@ -1458,3 +1458,44 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1609/aaai.v29i1.9183
+  title: Content-based Collaborative Filtering for News Topic Recommendation
+  authors:
+  - Zhongqi Lu
+  - Zhicheng Dou
+  - Xing Xie
+  - Jianxun Lian
+  - Qiang Yang
+  publisher: AAAI 2015
+  date: '2015-01-25'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2015_AAAI_Filtering.pdf
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/2806416.2806455
+  title: Search Result Diversification Based on Hierarchical Intents
+  authors:
+  - Sha Hu
+  - Zhicheng Dou
+  - Xiaojie Wang
+  - Tetsuya Sakai
+  - Ji-Rong Wen
+  publisher: CIKM 2015
+  date: '2015-10-17'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2015_CIKM_DivByHieIntent.pdf
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11390-015-1567-5
+  title: Search Result Diversification Based on Query Facets
+  authors:
+  - Sha Hu
+  - Zhicheng Dou
+  - Xiao-Jie Wang
+  - Ji-Rong Wen
+  publisher: JCST
+  date: '2015-07-08'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2015_JCST_DivByFacet.pdf
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
