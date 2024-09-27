@@ -1227,3 +1227,38 @@
   type: paper
   date: '2022-2-15'
   link: https://dl.acm.org/doi/abs/10.1145/3488560.3498412
+- id: doi:10.5555/2887007.2887038
+  title: 'Content-based Collaborative Filtering for News Topic Recommendation'
+  authors:
+  - Zhongqi Lu
+  - Zhicheng Dou
+  - Xing Xie
+  - Jianxun Lian
+  - Qiang Yang
+  publisher: AAAI 2015
+  type: paper
+  date: '2015-1-25'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2015_AAAI_Filtering.pdf
+- id: doi:10.1145/2806416.2806455
+  title: 'Search Result Diversification Based on Hierarchical Intents'
+  authors:
+  - Sha Hu
+  - Zhicheng Dou
+  - Xiaojie Wang
+  - Tetsuya Sakai
+  - Ji-Rong Wen
+  publisher: CIKM 2015
+  type: paper
+  date: '2015-10-17'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2015_CIKM_DivByHieIntent.pdf
+- id: doi:10.1007/s11390-015-1567-5
+  title: 'Search Result Diversification Based on Query Facets'
+  authors:
+  - Sha Hu
+  - Zhicheng Dou
+  - Xiao-Jie Wang
+  - Ji-Rong Wen
+  publisher: JCST
+  type: paper
+  date: '2015-07-08'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2015_JCST_DivByFacet.pdf
