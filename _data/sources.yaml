@@ -1227,6 +1227,51 @@
   type: paper
   date: '2022-2-15'
   link: https://dl.acm.org/doi/abs/10.1145/3488560.3498412
+- id: doi:10.1145/3331184.3331218
+  title: 'PSGAN: A Minimax Game for Personalized Search with Limited and Noisy Click Data'
+  authors:
+  - Shuqi Lu
+  - Zhicheng Dou
+  - Xu Jun
+  - Jian-Yun Nie
+  - Ji-Rong Wen
+  publisher: SIGIR 2019
+  type: paper
+  date: '2019-07-18'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2019_sigir_psgan.pdf
+- id: doi:10.1007/s10791-019-09356-x
+  title: 'Low-cost, bottom-up measures for evaluating search result diversification'
+  authors:
+  - Zhicheng Dou
+  - Xue Yang
+  - Diya Li
+  - Ji-Rong Wen
+  - Tetsuya Sakai
+  publisher: IRJ
+  type: paper
+  date: '2019-04-20'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2019_IRJ_Low-costBottom-up.pdf
+- id: doi:10.1007/s10791-019-09364-x
+  title: 'ReBoost: A Retrieval-Boosted Sequence-to-Sequence Model for Neural Response Generation'
+  authors:
+  - Yutao Zhu
+  - Zhicheng Dou
+  - Jian-Yun Nie
+  - Ji-Rong Wen
+  publisher: IRJ
+  type: paper
+  date: '2019-09-23'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2019_IR_Journal_ReBoost_aam.pdf
+- id: doi.org:10.1007/978-3-030-31624-2_7
+  title: 'Document-Level Named Entity Recognition by Incorporating Global and Neighbor Features'
+  authors:
+  - Anwen Hu
+  - Zhicheng Dou
+  - Ji-Rong Wen
+  publisher: CCIR
+  type: paper
+  date: '2019-09-18'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2019_CCIR19_NER.pdf
 - id: doi:10.1109/TKDE.2018.2810873
   title: 'Supervised Search Result Diversification via Subtopic Attention'
   authors:
