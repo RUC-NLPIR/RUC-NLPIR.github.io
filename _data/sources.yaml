@@ -1227,6 +1227,115 @@
   type: paper
   date: '2022-2-15'
   link: https://dl.acm.org/doi/abs/10.1145/3488560.3498412
+- id: doi:10.1145/3340531.3411877
+  title: 'PSTIE: Time Information Enhanced Personalized Search'
+  authors:
+  - Zhengyi Ma
+  - Zhicheng Dou
+  - Guanyue Bian
+  - Ji-Rong Wen
+  publisher: CIKM 2020
+  type: paper
+  date: '2020-10-19'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2020_CIKM_PS_Time.pdf
+- id: doi:10.1145/3340531.3411914
+  title: 'Diversifying Search Results using Self-Attention Network'
+  authors:
+  - Xubo Qin
+  - Zhicheng Dou
+  - Ji-Rong Wen
+  publisher: CIKM 2020
+  type: paper
+  date: '2020-10-19'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2020_CIKM_DIV_SelfAttn.pdf
+- id: doi:10.1145/3397271.3401153
+  title: 'Employing Personal Word Embeddings for Personalized Search'
+  authors:
+  - Jing Yao
+  - Zhicheng Dou
+  - Ji-Rong Wen
+  publisher: SIGIR 2020
+  type: paper
+  date: '2020-07-25'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2020_sigir_personal_embedding.pdf
+- id: doi:10.1145/3397271.3401175
+  title: 'Encoding History with Context-aware Representation Learning for Personalized Search'
+  authors:
+  - Yujia Zhou
+  - Zhicheng Dou
+  - Ji-Rong Wen
+  publisher: SIGIR 2020
+  type: paper
+  date: '2020-07-25'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2020_sigir_context_ps.pdf
+- id: doi:10.1145/3397271.3401084
+  title: 'DVGAN: A Minimax Game for Search Result Diversification Combining Explicit and Implicit Features'
+  authors:
+  - Jiongnan Liu
+  - Zhicheng Dou
+  - Xiaojie Wang
+  - Shuqi Lu
+  - Ji-Rong Wen
+  publisher: SIGIR 2020
+  type: paper
+  date: '2020-07-25'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2020_sigir_divgan.pdf
+- id: doi:10.1145/3397271.3401089
+  title: 'Knowledge Enhanced Personalized Search'
+  authors:
+  - Shuqi Lu
+  - Zhicheng Dou
+  - Chenyan Xiong
+  - Xiaojie Wang
+  - Ji-Rong Wen
+  publisher: SIGIR 2020
+  type: paper
+  date: '2020-07-25'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2020_sigir_knowledge_ps.pdf
+- id: doi:10.1145/3366423.3380294
+  title: 'RLPer: A Reinforcement Learning Model for Personalized Search'
+  authors:
+  - Jing Yao
+  - Zhicheng Dou
+  - Jun Xu
+  - Ji-Rong Wen
+  publisher: TheWebConf 2020
+  type: paper
+  date: '2020-04-20'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2020_WWW_RLPer.pdf
+- id: doi:10.1609/aaai.v34i05.6304
+  title: 'Leveraging Multi-token Entities in Document-level Named Entity Recognition'
+  authors:
+  - Anwen Hu
+  - Zhicheng Dou
+  - Jian-Yun Nie
+  - Ji-Rong Wen
+  publisher: AAAI 2020
+  type: paper
+  date: '2020-04-03'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2020_aaai_ner.pdf
+- id: doi:10.1145/3336191.3371794
+  title: 'Enhancing Re-finding Behavior with External Memories for Personalized Search'
+  authors:
+  - Yujia Zhou
+  - Zhicheng Dou
+  - Ji-Rong Wen
+  publisher: WSDM 2020
+  type: paper
+  date: '2020-01-22'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2020_wsdm_memory_ps.pdf
+- id: doi:10.18653/v1/2020.acl-main.765
+  title: 'ScriptWriter: Narrative-Guided Script Generation'
+  authors:
+  - Yutao Zhu
+  - Ruihua Song
+  - Zhicheng Dou
+  - Jian-Yun Nie
+  - Jin Zhou
+  publisher: ACL 2020
+  type: paper
+  date: '2020-07-05'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2020_acl_scriptwriter.pdf
 - id: doi:10.1145/3331184.3331218
   title: 'PSGAN: A Minimax Game for Personalized Search with Limited and Noisy Click Data'
   authors:
