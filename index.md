@@ -19,7 +19,9 @@ We are currently recruiting **highly motivated students**. If you are interested
 
 {% capture text %}
 
-Our research explores key challenges in IR and NLP, with a focus on cutting-edge areas such as retrieval-augmented generation (RAG), conversational search, personalized and diversified search, and legal AI.
+Our research explores key challenges in IR and NLP, with a focus on cutting-edge areas such as large language models, retrieval-augmented generation, conversational search, personalized and diversified search, and legal AI.
+
+我们的研究集中于信息检索和自然语言处理中的关键挑战，重点关注前沿领域，如大语言模型、检索增强生成、对话式搜索、个性化与多样化搜索，以及法律人工智能等。
 
 {%
   include button.html
@@ -42,7 +44,9 @@ Our research explores key challenges in IR and NLP, with a focus on cutting-edge
 
 {% capture text %}
 
-The RUC-NLPIR lab at Renmin University of China is a dynamic and collaborative group of researchers passionate about IR and NLP. Led by Prof. Zhicheng Dou, the team fosters an open and innovative environment where students and researchers work closely together to tackle real-world challenges. With a strong emphasis on creativity, teamwork, and hands-on problem-solving, we strive to push the boundaries of AI research while supporting each other's growth and development.
+The RUC-NLPIR lab at Renmin University of China is a dynamic and collaborative group of researchers passionate about IR and NLP. The team fosters an open and innovative environment where students and researchers work closely together to tackle real-world challenges. With a strong emphasis on creativity, teamwork, and hands-on problem-solving, we strive to push the boundaries of AI research while supporting each other's growth and development.
+
+中国人民大学的RUC-NLPIR实验室是一个充满活力和合作精神的研究团队，成员们对信息检索和自然语言处理领域的前沿问题充满热情。团队营造了一个开放且创新的环境，学生和研究人员紧密合作，致力于解决现实世界中的挑战。我们高度重视创造力、团队合作和动手解决问题的能力，在推动人工智能研究前沿的同时，彼此支持共同成长与发展。
 
 {%
   include button.html
