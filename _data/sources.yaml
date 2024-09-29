@@ -1212,6 +1212,339 @@
   type: paper
   date: '2022-2-15'
   link: https://dl.acm.org/doi/10.1145/3488560.3498447
+- id: doi:10.1145/3507356
+  title: 'Leveraging Narrative to Generate Movie Script'
+  authors:
+  - Yutao Zhu
+  - Ruihua Song
+  - Jian-Yun Nie
+  - Pan Du
+  - Zhicheng Dou
+  - Jin Zhou
+  publisher: ACM TOIS
+  type: paper
+  date: '2022-03-09'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2021_TOIS_Narrative.pdf
+- id: doi:10.1109/TKDE.2020.3045816
+  title: 'Looking Back on the Past: Active Learning with Historical Evaluation Results'
+  authors:
+  - Jing Yao
+  - Zhicheng Dou
+  - Jian-Yun Nie
+  - Ji-Rong Wen
+  publisher: IEEE TKDE
+  type: paper
+  date: '2022-10-01'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2021_TKDE_ActiveLearning.pdf
+- id: doi:10.1145/3470564
+  title: 'Clarifying Ambiguous Keywords with Personal Word Embeddings for Personalized Search'
+  authors:
+  - Jing Yao
+  - Zhicheng Dou
+  - Ji-Rong Wen
+  publisher: ACM
+  type: paper
+  date: '2021-11-22'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2021_TOIS_Personal_Emb.pdf
+- id: doi:10.1145/3446617
+  title: 'RLPS: A Reinforcement Learning based Framework for Personalized Search'
+  authors:
+  - Jing Yao
+  - Zhicheng Dou
+  - Jun Xu
+  - Ji-Rong Wen
+  publisher: ACM TOIS
+  type: paper
+  date: '2021-05-05'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2021_TOIS_RLPer.pdf
+- id: doi:10.1145/3459637.3482379
+  title: 'PSSL: Self-supervised Learning for Personalized Search with Contrastive Sampling'
+  authors:
+  - Yujia Zhou
+  - Zhicheng Dou
+  - Yutao Zhu
+  - Ji-Rong Wen
+  publisher: CIKM 2021
+  type: paper
+  date: '2021-10-30'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2021_CIKM_PSSL.pdf
+- id: doi:10.1145/3459637.3482269
+  title: 'Learning Implicit User Profiles for Personalized Retrieval-Based Chatbot'
+  authors:
+  - Hongjin Qian
+  - Zhicheng Dou
+  - Yutao Zhu
+  - Yueyuan Ma
+  - Ji-Rong Wen
+  publisher: CIKM 2021
+  type: paper
+  date: '2021-10-30'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2021_CIKM_PChatbot.pdf
+- id: doi:10.1145/3459637.3482489
+  title: 'USER: A Unified Information Search and Recommendation Model based on Integrated Behavior Sequence'
+  authors:
+  - Jing Yao
+  - Zhicheng Dou
+  - Ruobing Xie
+  - Yanxiong Lu
+  - Zhiping Wang
+  - Ji-Rong Wen
+  publisher: CIKM 2021
+  type: paper
+  date: '2021-10-30'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2021_CIKM_USER.pdf
+- id: doi:10.1145/3459637.3482286
+  title: 'Pre-training for Ad-hoc Retrieval: Hyperlink is Also You Need'
+  authors:
+  - Zhengyi Ma
+  - Zhicheng Dou
+  - Wei Xu
+  - Xinyu Zhang
+  - Hao Jiang
+  - Zhao Cao
+  - Ji-Rong Wen
+  publisher: CIKM 2021
+  type: paper
+  date: '2021-10-30'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2021_CIKM_Pretraining.pdf
+- id: doi:10.1145/3459637.3482243
+  title: 'Contrastive Learning of User Behavior Sequence for Context-Aware Document Ranking'
+  authors:
+  - Yutao Zhu
+  - Jian-Yun Nie
+  - Zhicheng Dou
+  - Zhengyi Ma
+  - Xinyu Zhang
+  - Pan Du
+  - Xiaochen Zuo
+  - Hao Jiang
+  publisher: CIKM 2021
+  type: paper
+  date: '2021-10-30'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2021_CIKM_CL_for_Session_Search.pdf
+- id: doi:10.18653/v1/2021.emnlp-main.220
+  title: 'Less is More: Pre-training a Strong Siamese Encoder Using a Weak Decoder'
+  authors:
+  - Shuqi Lu
+  - Chenyan Xiong
+  - Di He
+  - Guolin Ke
+  - Waleed Malik
+  - Zhicheng Dou
+  - Paul Bennett
+  - Tie-Yan Liu
+  - Arnold Overwijk
+  publisher: EMNLP 2021
+  type: paper
+  date: '2021-11-01'
+  link: https://aclanthology.org/2021.emnlp-main.220/
+- id: doi:10.1145/3404835.3462828
+  title: 'One Chatbot Per Person: Creating Personalized Chatbots based on Implicit User Profiles'
+  authors:
+  - Zhengyi Ma
+  - Zhicheng Dou
+  - Yutao Zhu
+  - Hanxun Zhong
+  - Ji-Rong Wen
+  publisher: SIGIR 2021
+  type: paper
+  date: '2021-07-11'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2021_SIGIR_PersonalizedChatbots.pdf
+- id: doi:10.1145/3404835.3462872
+  title: 'Modeling Intent Graph for Search Result Diversification'
+  authors:
+  - Zhan Su
+  - Zhicheng Dou
+  - Yutao Zhu
+  - Xubo Qin
+  - Ji-Rong Wen
+  publisher: SIGIR 2021
+  type: paper
+  date: '2021-07-11'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2021_SIGIR_IntentGraph.pdf
+- id: doi:10.1145/3404835.3462918
+  title: 'Group based Personalized Search by Integrating Search Behaviour and Friend Network'
+  authors:
+  - Yujia Zhou
+  - Zhicheng Dou
+  - Bingzheng Wei
+  - Ruobing Xie
+  - Ji-Rong Wen
+  publisher: SIGIR 2021
+  type: paper
+  date: '2021-07-11'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2021_SIGIR_FriendGraph.pdf
+- id: doi:10.1145/3404835.3463239
+  title: 'Pchatbot: A Large-Scale Dataset for Personalized Chatbot'
+  authors:
+  - Hongjin Qian
+  - Xiaohe Li
+  - Hanxun Zhong
+  - Yu Guo
+  - Yueyuan Ma
+  - Yutao Zhu
+  - Zhanliang Liu
+  - Zhicheng Dou
+  - Ji-Rong Wen
+  publisher: SIGIR 2021 Resource
+  type: paper
+  date: '2021-07-11'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2021_SIGIR_Pchatbot.pdf
+- id: doi:10.1145/3404835.3462942
+  title: 'Answer Complex Questions: Path Ranker Is All You Need'
+  authors:
+  - Xinyu Zhang
+  - Ke Zhan
+  - Enrui Hu
+  - Chengzhen Fu
+  - Lan Luo
+  - Hao Jiang
+  - Yantao Jia
+  - Pan Yu
+  - Zhao Cao
+  - Zhicheng Dou
+  - Lei Chen
+  publisher: SIGIR 2021
+  type: paper
+  date: '2021-07-11'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2021_SIGIR_Ranker.pdf
+- id: doi:10.1145/3404835.3463011
+  title: 'Proactive Retrieval-based Chatbots based on Relevant Knowledge and Goals'
+  authors:
+  - Yutao Zhu
+  - Jian-Yun Nie
+  - Kun Zhou
+  - Pan Du
+  - Hao Jiang
+  - Zhicheng Dou
+  publisher: SIGIR 2021
+  type: paper
+  date: '2021-07-11'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2021_SIGIR_Proactive_Dialogue_Short.pdf
+- id: doi:10.1145/3442381.3449936
+  title: 'FedPS: A Privacy Protection Enhanced Personalized Search Framework'
+  authors:
+  - Jing Yao
+  - Zhicheng Dou
+  - Ji-Rong Wen
+  publisher: TheWebConf 2021
+  type: paper
+  date: '2021-06-03'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2021_WWW_FedPS.pdf
+- id: doi:10.1609/aaai.v35i16.17722
+  title: 'Neural Sentence Ordering Based on Constraint Graphs'
+  authors:
+  - Yutao Zhu
+  - Kun Zhou
+  - Jian-Yun Nie
+  - Shengchao Liu
+  - Zhicheng Dou
+  publisher: AAAI 2021
+  type: paper
+  date: '2021-05-18'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2021_AAAI_SentenceOrdering.pdf
+- id: doi:10.1007/978-3-030-72113-8_50
+  title: 'Content Selection Network for Document-grounded Retrieval-based Chatbots'
+  authors:
+  - Yutao Zhu
+  - Jian-Yun Nie
+  - Kun Zhou
+  - Pan Du
+  - Zhicheng Dou
+  publisher: ECIR 2021
+  type: paper
+  date: '2021-03-27'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/2021_ECIR_DocChatbot.pdf
+- id: arxiv:2103.0656 
+  title: 'WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training'
+  authors:
+  - Yuqi Huo
+  - Manli Zhang
+  - Guangzhen Liu
+  - Haoyu Lu
+  - Yizhao Gao
+  - Guoxing Yang
+  - Jingyuan Wen
+  - Heng Zhang
+  - Baogui Xu
+  - Weihao Zheng
+  - Zongzheng Xi
+  - Yueqian Yang
+  - Anwen Hu
+  - Jinming Zhao
+  - Ruichen Li
+  - Yida Zhao
+  - Liang Zhang
+  - Yuqing Song
+  - Xin Hong
+  - Wanqing Cui
+  - Dan Yang Hou
+  - Yingyan Li
+  - Junyi Li
+  - Peiyu Liu
+  - Zheng Gong
+  - Chuhao Jin
+  - Yuchong Sun
+  - Shizhe Chen
+  - Zhiwu Lu
+  - Zhicheng Dou
+  - Qin Jin
+  - Yanyan Lan
+  - Wayne Xin Zhao
+  - Ruihua Song
+  - Ji-Rong Wen
+  publisher: arxiv
+  type: paper
+  date: '2021-07-08'
+  link: https://arxiv.org/pdf/2103.06561.pdf
+- id: doi:10.1007/978-3-030-88189-4_1
+  title: 'Interaction-Based Document Matching for Implicit Search Result Diversification'
+  authors:
+  - Xubo Qin
+  - Zhicheng Dou
+  - Yutao Zhu
+  - Ji-Rong Wen
+  publisher: CCIR 2021
+  type: paper
+  date: '2021-10-05'
+  link: https://link.springer.com/chapter/10.1007/978-3-030-88189-4_1
+- id: doi:10.1007/978-3-030-84186-7_26
+  title: 'Few-Shot Charge Prediction with Multi-grained Features and Mutual Information'
+  authors:
+  - Han Zhang
+  - Zhicheng Dou
+  - Yutao Zhu
+  - Ji-Rong Wen
+  publisher: CCL 2021
+  type: paper
+  date: '2021-08-01'
+  link: https://link.springer.com/chapter/10.1007/978-3-030-84186-7_26
+- id: doi:10.1007/s11704-020-9159-0
+  title: 'Information Retrieval: A View from the Chinese IR Community'
+  authors:
+  - Zhumin Chen
+  - Xueqi Cheng
+  - Shoubin Dong
+  - Zhicheng Dou
+  - Jiafeng Guo
+  - Xuanjing Huang
+  - Yanyan Lan
+  - Chenliang Li
+  - Ru Li
+  - Tie-Yan Liu
+  - Yiqun Liu
+  - Jun Ma
+  - Bing Qin
+  - Mingwen Wang
+  - Ji-Rong Wen
+  - Jun Xu
+  - Min Zhang
+  - Peng Zhang
+  - Qi Zhang
+  publisher: Frontiers in Computer Science
+  type: paper
+  date: '2020-09-29'
+  link: http://playbigdata.ruc.edu.cn/dou/publication/chinese_ir_trends.pdf
 - id: doi:10.1145/3488560.3498412
   title: 'Leveraging Multi-view Inter-passage Interactions for Neural Document Ranking'
   authors:
