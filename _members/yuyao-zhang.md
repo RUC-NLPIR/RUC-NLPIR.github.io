@@ -1,6 +1,6 @@
 ---
 name: Yuyao Zhang
-image: images/yuyao-zhang.jpg
+image: images/yuyao-zhang.png
 role: doc
 links:
   google-scholar: W-evmnMAAAAJ&hl

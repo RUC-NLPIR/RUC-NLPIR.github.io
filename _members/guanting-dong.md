@@ -1,6 +1,6 @@
 ---
 name: Guanting Dong
-image: images/guanting-dong.jpg
+image: images/guanting-dong.png
 role: doc
 links:
   home-page: https://dongguanting.github.io/
