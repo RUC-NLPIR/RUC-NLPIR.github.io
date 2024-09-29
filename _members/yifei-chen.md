@@ -1,7 +1,7 @@
 ---
 name: Yifei Chen
 image: images/yifei-chen.png
-role: doc
+role: phd
 links:
   google-scholar: nq_-2vUAAAAJ
   orcid: 0009-0008-3142-5884

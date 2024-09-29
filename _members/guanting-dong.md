@@ -1,7 +1,7 @@
 ---
 name: Guanting Dong
 image: images/guanting-dong.png
-role: doc
+role: phd
 links:
   home-page: https://dongguanting.github.io/
   google-scholar: amozZDkAAAAJ

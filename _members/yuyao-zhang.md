@@ -1,7 +1,7 @@
 ---
 name: Yuyao Zhang
 image: images/yuyao-zhang.png
-role: doc
+role: phd
 links:
   google-scholar: W-evmnMAAAAJ&hl
   github: zhangyuuao
