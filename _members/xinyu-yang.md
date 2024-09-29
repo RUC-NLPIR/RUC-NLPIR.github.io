@@ -1,6 +1,6 @@
 ---
 name: Xinyu Yang
-image: images/xinyu-yang.jpg
+image: images/xinyu-yang.png
 role: phd
 links:
   google-scholar: CF_NOtoAAAAJ
