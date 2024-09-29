@@ -1,5 +1,5 @@
 ---
-name: Yifei Chenhttps://jpg2png.com/zh/
+name: Yifei Chen
 image: images/yifei-chen.png
 role: doc
 links:
