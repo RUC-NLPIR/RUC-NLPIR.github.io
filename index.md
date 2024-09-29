@@ -9,6 +9,10 @@ The **RUC-NLPIR Lab**, part of the Gaoling School of Artificial Intelligence at 
 
 We are currently recruiting **highly motivated students**. If you are interested in joining the team, please reach out to Prof. Zhicheng Dou via email (dou AT ruc.edu.cn).
 
+中国人民大学高瓴人工智能学院的RUC-NLPIR实验室由窦志成教授领导。该实验室专注于信息检索（IR）和自然语言处理（NLP）领域的前沿研究。窦志成教授是中国人民大学的教授，并担任高瓴人工智能学院副院长。他分别于2008年和2003年在南开大学获得了计算机科学与技术的博士学位和学士学位。在2014年加入中国人民大学之前，他曾于2008年至2014年在微软亚洲研究院工作。他的研究兴趣包括信息检索、自然语言处理和大语言模型，尤其专注于生成式信息检索。窦教授曾获得多项荣誉，包括TheWebConf 2023的论文奖提名（焦点论文），SIGIR 2013的最佳论文提名奖，以及AIRS 2012的最佳论文奖。他曾担任SIGIR 2019（短文）、AIRS 2017和NTCIR-16/17的程序委员会主席。
+
+我们非常欢迎具有较强自驱力的同学加入我们团队，如果您有兴趣，请通过电子邮件（dou AT ruc.edu.cn）联系窦志成教授。
+
 {% include section.html %}
 
 ## Highlights
