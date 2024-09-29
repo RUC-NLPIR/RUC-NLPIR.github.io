@@ -1,6 +1,6 @@
 ---
 name: Zhao Yang
-image: images/zhao-yang.jpg
+image: images/zhao-yang.png
 role: master
 links:
   github: lihai-zhao
