@@ -3,8 +3,8 @@ name: Jiongnan Liu
 image: images/jiongnan-liu.png
 role: phd
 links:
+  home-page: https://rucliujn.github.io/
   google-scholar: 9El3sbQAAAAJ
-  orcid: 0000-0002-3946-9178
   github: rucliujn
 ---
 
