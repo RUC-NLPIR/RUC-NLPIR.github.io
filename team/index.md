@@ -33,7 +33,7 @@ nav:
 
 ###### Master
 - Peitian Zhang, 2022-2025, Bytedance
-- Wei Xu, 2022-2025,
+- Wei Xu, 2022-2025, Alipay
 - Shiren Song, 2022-2025, Bytedance
 - Yueqian Yang, 2021-2024, Xiaomi Inc.
 - Yunhao Tao, 2021-2024, Kuaishou Technology
