@@ -23,6 +23,8 @@ nav:
 - Qiannan Zhu, 2021-2023, Beijing Normal University
 
 ###### PhD
+- Kelong Mao, 2021-2025, Alibaba
+- Zhan Su, 2021-2025, Tencent
 - Hongjin Qian, 2020-2024, Beijing Academy of Artificial Intelligence
 - Yujia Zhou, 2019-2024, Tsinghua University
 - Han Zhang, 2018-2023, China Unicom
@@ -30,6 +32,9 @@ nav:
 - Sha Hu, 2010-2015, Southwest University
 
 ###### Master
+- Peitian Zhang, 2022-2025, Bytedance
+- Wei Xu, 2022-2025,
+- Shiren Song, 2022-2025, Bytedance
 - Yueqian Yang, 2021-2024, Xiaomi Inc.
 - Yunhao Tao, 2021-2024, Kuaishou Technology
 - Hanxun Zhong, 2020-2023, Bytedance
