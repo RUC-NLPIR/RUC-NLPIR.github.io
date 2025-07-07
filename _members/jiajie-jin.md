@@ -1,7 +1,7 @@
 ---
 name: Jiajie Jin
 image: images/jiajie-jin.png
-role: master
+role: phd
 links:
   home-page: 
   google-scholar: iHCuEo8AAAAJ
