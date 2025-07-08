@@ -24,7 +24,7 @@ nav:
 
 ###### PhD
 - Kelong Mao, 2021-2025, JD.com, Inc.
-- Zhan Su, 2021-2025, Tencent
+- Zhan Su, 2020-2025, Tencent
 - Hongjin Qian, 2020-2024, Beijing Academy of Artificial Intelligence
 - Yujia Zhou, 2019-2024, Tsinghua University
 - Han Zhang, 2018-2023, China Unicom
