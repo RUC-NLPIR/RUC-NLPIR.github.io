@@ -20,43 +20,43 @@ nav:
 
 ## Alumni
 ###### Postdoc
-- Qiannan Zhu, 2021-2023
+- Qiannan Zhu, 2021-2023, Beijing Normal University
 
 ###### PhD
-- Kelong Mao, 2021-2025
+- Kelong Mao, 2021-2025, JD.com, Inc.
 - Zhan Su, 2020-2025
-- Hongjin Qian, 2020-2024
-- Yujia Zhou, 2019-2024
-- Han Zhang, 2018-2023
-- Xubo Qin, 2017-2021
-- Sha Hu, 2010-2015
+- Hongjin Qian, 2020-2024, Beijing Academy of Artificial Intelligence
+- Yujia Zhou, 2019-2024, Tsinghua University
+- Han Zhang, 2018-2023, China Unicom
+- Xubo Qin, 2017-2021, Beijing Institute for General Artificial Intelligence
+- Sha Hu, 2010-2015, Southwest University
 
 ###### Master
-- Peitian Zhang, 2022-2025
-- Wei Xu, 2022-2025
-- Shiren Song, 2022-2025
-- Yueqian Yang, 2021-2024
-- Yunhao Tao, 2021-2024
-- Hanxun Zhong, 2020-2023
-- Yueyuan Ma, 2020-2023
-- Didi Lian, 2020-2023
-- Qingyu Bing, 2020-2023
-- Shuqi Lu, 2019-2022
-- Tao Lv, 2020-2022
-- Jing Yao, 2019-2022
-- Xiaochen Zuo, 2019-2022
-- Zongzheng Xi, 2020-2022
-- Jiaqing Liu, 2018-2021
-- Xue Yang, 2018-2021
-- Weihao Zheng, 2018-2021
-- Xiaohe Li, 2017-2020
-- Tianzhi Dong, 2017-2020
-- Zhen Huang, 2017-2020
-- Juan Li, 2016-2019
-- Anwen Hu, 2017-2019
-- Zhengbao Jiang, 2015-2018
-- Ming Yue, 2015-2018
-- Beiping Pan, 2016-2018
-- Qunfen Lin, 2016-2018
-- Xu Zhang, 2016-2018
-- Jinxiu Li, 2014-2017
+- Peitian Zhang, 2022-2025, Bytedance
+- Wei Xu, 2022-2025, Alipay
+- Shiren Song, 2022-2025, Bytedance
+- Yueqian Yang, 2021-2024, Xiaomi Inc.
+- Yunhao Tao, 2021-2024, Kuaishou Technology
+- Hanxun Zhong, 2020-2023, Bytedance
+- Yueyuan Ma, 2020-2023, China Mobile
+- Didi Lian, 2020-2023, China Life Insurance
+- Qingyu Bing, 2020-2023, Bytedance
+- Shuqi Lu, 2019-2022, DP Technology
+- Tao Lv, 2020-2022, China Life Insurance
+- Jing Yao, 2019-2022, Microsoft Research Asia
+- Xiaochen Zuo, 2019-2022, Bytedance
+- Zongzheng Xi, 2020-2022, Alibaba
+- Jiaqing Liu, 2018-2021, Alibaba
+- Xue Yang, 2018-2021, Renmin University of China
+- Weihao Zheng, 2018-2021, Alibaba
+- Xiaohe Li, 2017-2020, Ant Group
+- Tianzhi Dong, 2017-2020, Curverobot
+- Zhen Huang, 2017-2020, Datalun
+- Juan Li, 2016-2019, Industrial and Commercial Bank of China
+- Anwen Hu, 2017-2019, Alibaba
+- Zhengbao Jiang, 2015-2018, CMU
+- Ming Yue, 2015-2018, Tencent
+- Beiping Pan, 2016-2018, Tencent
+- Qunfen Lin, 2016-2018, Tencent
+- Xu Zhang, 2016-2018, Industrial and Commercial Bank of China
+- Jinxiu Li, 2014-2017, Agricultural Bank of China
