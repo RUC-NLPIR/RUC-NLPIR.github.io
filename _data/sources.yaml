@@ -786,7 +786,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.18653/v1/2025.acl-long.8.
+- id: https://aclanthology.org/2025.acl-long.8/
   title: 'Sliding Windows Are Not the End: Exploring Full Ranking with Long-Context
     Large Language Models'
   authors:
@@ -803,7 +803,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.18653/v1/2025.acl-long.176.
+- id: https://aclanthology.org/2025.acl-long.176/
   title: Hierarchical Document Refinement for Long-context Retrieval-augmented Generation
   authors:
   - Jiajie Jin
@@ -821,7 +821,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.18653/v1/2025.acl-long.179.
+- id: https://aclanthology.org/2025.acl-long.179/
   title: 'RAG-Critic: Leveraging Automated Critic-Guided Agentic Workflow for Retrieval
     Augmented Generation'
   authors:
@@ -837,7 +837,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.18653/v1/2025.acl-long.180.
+- id: https://aclanthology.org/2025.acl-long.180/
   title: Progressive Multimodal Reasoning via Active Retrieval
   authors:
   - Guanting Dong
@@ -852,7 +852,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.18653/v1/2025.acl-long.241.
+- id: https://aclanthology.org/2025.acl-long.241/
   title: A Silver Bullet or a Compromise for Full Attention? A Comprehensive Study
     of Gist Token-based Context Compression
   authors:
@@ -869,7 +869,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.18653/v1/2025.acl-long.289.
+- id: https://aclanthology.org/2025.acl-long.289/
   title: Towards Effective and Efficient Continual Pre-training of Large Language
     Models
   authors:
@@ -898,7 +898,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.18653/v1/2025.findings-acl.433.
+- id: https://aclanthology.org/2025.findings-acl.433/
   title: 'mmE5: Improving Multimodal Multilingual Embeddings via High-quality Synthetic
     Data'
   authors:
@@ -915,7 +915,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.18653/v1/2025.acl-long.461.
+- id: https://aclanthology.org/2025.acl-long.461/
   title: LLMs + Persona-Plug = Personalized LLMs
   authors:
   - Jiongnan Liu
@@ -933,7 +933,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.18653/v1/2025.acl-long.465.
+- id: https://aclanthology.org/2025.acl-long.465/
   title: Boosting Long-Context Information Seeking via Query-Guided Activation Refilling
   authors:
   - Hongjin Qian
@@ -947,7 +947,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.18653/v1/2025.findings-acl.618.
+- id: https://aclanthology.org/2025.findings-acl.618/
   title: 'P3: Prompts Promote Prompting'
   authors:
   - Xinyu Zhang
@@ -960,7 +960,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.18653/v1/2025.findings-acl.628.
+- id: https://aclanthology.org/2025.findings-acl.628/
   title: Neuro-Symbolic Query Compiler
   authors:
   - Yuyao Zhang
@@ -977,7 +977,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.18653/v1/2025.acl-long.819.
+- id: https://aclanthology.org/2025.acl-long.819/
   title: 'RetroLLM: Empowering Large Language Models to Retrieve Fine-grained Evidence
     within Generation'
   authors:
@@ -1066,7 +1066,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.18653/v1/2025.coling-main.45.
+- id: https://aclanthology.org/2025.coling-main.45/
   title: Enhancing Reranking for Recommendation with LLMs through User Preference
     Retrieval
   authors:
@@ -1079,7 +1079,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.18653/v1/2025.coling-main.285.
+- id: https://aclanthology.org/2025.coling-main.285/
   title: How Credible Is an Answer From Retrieval-Augmented LLMs? Investigation and
     Evaluation With Multi-Hop QA
   authors:
@@ -1092,7 +1092,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.18653/v1/2025.coling-main.741.
+- id: https://aclanthology.org/2025.coling-main.741/
   title: 'FineRAG: Fine-grained Retrieval-Augmented Text-to-Image Generation'
   authors:
   - Huaying Yuan
@@ -1108,7 +1108,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.18653/v1/2025.coling-main.750.
+- id: https://aclanthology.org/2025.coling-main.750/
   title: 'RichRAG: Crafting Rich Responses for Multi-faceted Queries in Retrieval-Augmented
     Generation'
   authors:
@@ -2871,7 +2871,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.18653/v1/2022.coling-1.439
+- id: https://aclanthology.org/2022.coling-1.439
   title: 'Coarse-to-Fine: Hierarchical Multi-task Learning for Natural Language Understanding'
   authors:
   - Zhaoye Fei
@@ -3084,7 +3084,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/arXiv.2202.13529
+- id: https://arxiv.org/abs/2202.13529
   title: 'KMIR: A Benchmark for Evaluating Knowledge Memorization, Identification
     and Reasoning Abilities of Language Models'
   authors:
@@ -3453,7 +3453,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/arXiv.2102.09206
+- id: https://arxiv.org/abs/2102.09206
   title: 'Less is More: Pre-training a Strong Siamese Encoder Using a Weak Decoder'
   authors:
   - Shuqi Lu
@@ -3471,7 +3471,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/arXiv.2103.06561
+- id: https://arxiv.org/abs/2103.06561
   title: 'WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training'
   authors:
   - Yuqi Huo
@@ -3515,7 +3515,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/arXiv.2105.08251
+- id: https://arxiv.org/abs/2105.08251
   title: 'Emotion Eliciting Machine: Emotion Eliciting Conversation Generation based
     on Dual Generator'
   authors:
@@ -3532,7 +3532,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/arXiv.2108.07935
+- id: https://arxiv.org/abs/2108.07935
   title: Learning Implicit User Profiles for Personalized Retrieval-Based Chatbot
   authors:
   - Hongjin Qian
@@ -3546,7 +3546,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/arXiv.2109.06436
+- id: https://arxiv.org/abs/2109.06436
   title: YES SIR!Optimizing Semantic Space of Negatives with Self-Involvement Ranker
   authors:
   - Ruizhi Pu
@@ -3565,7 +3565,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/arXiv.2110.06459
+- id: https://arxiv.org/abs/2110.06459
   title: Learning to Select Historical News Articles for Interaction based Neural
     News Recommendation
   authors:
@@ -3578,7 +3578,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/arXiv.2110.07431
+- id: https://arxiv.org/abs/2110.07431
   title: Towards More Effective and Economic Sparsely-Activated Model
   authors:
   - Hao Jiang
