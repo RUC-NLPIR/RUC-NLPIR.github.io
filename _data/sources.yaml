@@ -786,7 +786,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://aclanthology.org/2025.acl-long.8/
+- id: doi:10.18653/v1/2025.acl-long.8.
   title: 'Sliding Windows Are Not the End: Exploring Full Ranking with Long-Context
     Large Language Models'
   authors:
@@ -803,7 +803,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://aclanthology.org/2025.acl-long.176/
+- id: doi:10.18653/v1/2025.acl-long.176.
   title: Hierarchical Document Refinement for Long-context Retrieval-augmented Generation
   authors:
   - Jiajie Jin
@@ -821,7 +821,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://aclanthology.org/2025.acl-long.179/
+- id: doi:10.18653/v1/2025.acl-long.179.
   title: 'RAG-Critic: Leveraging Automated Critic-Guided Agentic Workflow for Retrieval
     Augmented Generation'
   authors:
@@ -837,7 +837,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://aclanthology.org/2025.acl-long.180/
+- id: doi:10.18653/v1/2025.acl-long.180.
   title: Progressive Multimodal Reasoning via Active Retrieval
   authors:
   - Guanting Dong
@@ -852,7 +852,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://aclanthology.org/2025.acl-long.241/
+- id: doi:10.18653/v1/2025.acl-long.241.
   title: A Silver Bullet or a Compromise for Full Attention? A Comprehensive Study
     of Gist Token-based Context Compression
   authors:
@@ -869,7 +869,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://aclanthology.org/2025.acl-long.289/
+- id: doi:10.18653/v1/2025.acl-long.289.
   title: Towards Effective and Efficient Continual Pre-training of Large Language
     Models
   authors:
@@ -898,7 +898,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://aclanthology.org/2025.findings-acl.433/
+- id: doi:10.18653/v1/2025.findings-acl.433.
   title: 'mmE5: Improving Multimodal Multilingual Embeddings via High-quality Synthetic
     Data'
   authors:
@@ -915,7 +915,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://aclanthology.org/2025.acl-long.461/
+- id: doi:10.18653/v1/2025.acl-long.461.
   title: LLMs + Persona-Plug = Personalized LLMs
   authors:
   - Jiongnan Liu
@@ -933,7 +933,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://aclanthology.org/2025.acl-long.465/
+- id: doi:10.18653/v1/2025.acl-long.465.
   title: Boosting Long-Context Information Seeking via Query-Guided Activation Refilling
   authors:
   - Hongjin Qian
@@ -947,7 +947,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://aclanthology.org/2025.findings-acl.618/
+- id: doi:10.18653/v1/2025.findings-acl.618.
   title: 'P3: Prompts Promote Prompting'
   authors:
   - Xinyu Zhang
@@ -960,7 +960,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://aclanthology.org/2025.findings-acl.628/
+- id: doi:10.18653/v1/2025.findings-acl.628.
   title: Neuro-Symbolic Query Compiler
   authors:
   - Yuyao Zhang
@@ -977,7 +977,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://aclanthology.org/2025.acl-long.819/
+- id: doi:10.18653/v1/2025.acl-long.819.
   title: 'RetroLLM: Empowering Large Language Models to Retrieve Fine-grained Evidence
     within Generation'
   authors:
@@ -1066,7 +1066,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://aclanthology.org/2025.coling-main.45/
+- id: doi:10.18653/v1/2025.coling-main.45.
   title: Enhancing Reranking for Recommendation with LLMs through User Preference
     Retrieval
   authors:
@@ -1079,7 +1079,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://aclanthology.org/2025.coling-main.285/
+- id: doi:10.18653/v1/2025.coling-main.285.
   title: How Credible Is an Answer From Retrieval-Augmented LLMs? Investigation and
     Evaluation With Multi-Hop QA
   authors:
@@ -1092,7 +1092,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://aclanthology.org/2025.coling-main.741/
+- id: doi:10.18653/v1/2025.coling-main.741.
   title: 'FineRAG: Fine-grained Retrieval-Augmented Text-to-Image Generation'
   authors:
   - Huaying Yuan
@@ -1108,7 +1108,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://aclanthology.org/2025.coling-main.750/
+- id: doi:10.18653/v1/2025.coling-main.750.
   title: 'RichRAG: Crafting Rich Responses for Multi-faceted Queries in Retrieval-Augmented
     Generation'
   authors:
@@ -2871,7 +2871,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://aclanthology.org/2022.coling-1.439
+- id: doi:10.18653/v1/2022.coling-1.439
   title: 'Coarse-to-Fine: Hierarchical Multi-task Learning for Natural Language Understanding'
   authors:
   - Zhaoye Fei
@@ -2957,28 +2957,6 @@
   publisher: NAACL-HLT
   date: '2022-01-01'
   link: https://doi.org/10.18653/v1/2022.naacl-main.426
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings16/pdf/ntcir/02-NTCIR16-SS-ChenH.pdf
-  title: RUCIR at the NTCIR-16 Session Search (SS) Task
-  authors:
-  - Haonan Chen
-  - Zhicheng Dou
-  publisher: NTCIR
-  date: '2022-01-01'
-  link: https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings16/pdf/ntcir/02-NTCIR16-SS-ChenH.pdf
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings16/pdf/ntcir/01-NTCIR16-OV-YamamotoT.pdf
-  title: Overview of NTCIR-16
-  authors:
-  - Takehiro Yamamoto
-  - Zhicheng Dou
-  publisher: NTCIR
-  date: '2022-01-01'
-  link: https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings16/pdf/ntcir/01-NTCIR16-OV-YamamotoT.pdf
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -3106,7 +3084,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://arxiv.org/abs/2202.13529
+- id: doi:10.48550/arXiv.2202.13529
   title: 'KMIR: A Benchmark for Evaluating Knowledge Memorization, Identification
     and Reasoning Abilities of Language Models'
   authors:
@@ -3475,7 +3453,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://arxiv.org/abs/2102.09206
+- id: doi:10.48550/arXiv.2102.09206
   title: 'Less is More: Pre-training a Strong Siamese Encoder Using a Weak Decoder'
   authors:
   - Shuqi Lu
@@ -3493,7 +3471,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://arxiv.org/abs/2103.06561
+- id: doi:10.48550/arXiv.2103.06561
   title: 'WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training'
   authors:
   - Yuqi Huo
@@ -3537,7 +3515,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://arxiv.org/abs/2105.08251
+- id: doi:10.48550/arXiv.2105.08251
   title: 'Emotion Eliciting Machine: Emotion Eliciting Conversation Generation based
     on Dual Generator'
   authors:
@@ -3554,7 +3532,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://arxiv.org/abs/2108.07935
+- id: doi:10.48550/arXiv.2108.07935
   title: Learning Implicit User Profiles for Personalized Retrieval-Based Chatbot
   authors:
   - Hongjin Qian
@@ -3568,7 +3546,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://arxiv.org/abs/2109.06436
+- id: doi:10.48550/arXiv.2109.06436
   title: YES SIR!Optimizing Semantic Space of Negatives with Self-Involvement Ranker
   authors:
   - Ruizhi Pu
@@ -3587,7 +3565,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://arxiv.org/abs/2110.06459
+- id: doi:10.48550/arXiv.2110.06459
   title: Learning to Select Historical News Articles for Interaction based Neural
     News Recommendation
   authors:
@@ -3600,7 +3578,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://arxiv.org/abs/2110.07431
+- id: doi:10.48550/arXiv.2110.07431
   title: Towards More Effective and Economic Sparsely-Activated Model
   authors:
   - Hao Jiang
@@ -3720,38 +3698,6 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings15/pdf/ntcir/01-NTCIR15-OV-WWW-SakaiT.pdf
-  title: Overview of the NTCIR-15 We Want Web with CENTRE (WWW-3) Task
-  authors:
-  - Tetsuya Sakai
-  - Sijie Tao
-  - Zhaohao Zeng
-  - Yukun Zheng
-  - Jiaxin Mao
-  - Zhumin Chu
-  - Yiqun Liu
-  - Maria Maistro
-  - Zhicheng Dou
-  - Nicola Ferro
-  - Ian Soboroff
-  publisher: NTCIR
-  date: '2020-01-01'
-  link: https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings15/pdf/ntcir/01-NTCIR15-OV-WWW-SakaiT.pdf
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings15/pdf/ntcir/03-NTCIR15-WWW-ZuoX.pdf
-  title: RUCIR at the NTCIR-15 WWW-3 Task
-  authors:
-  - Xiaochen Zuo
-  - Jing Yao
-  - Zhicheng Dou
-  publisher: NTCIR
-  date: '2020-01-01'
-  link: https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings15/pdf/ntcir/03-NTCIR15-WWW-ZuoX.pdf
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1145/3397271.3401084
   title: 'DVGAN: A Minimax Game for Search Result Diversification Combining Explicit
     and Implicit Features'
@@ -3854,21 +3800,6 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings14/pdf/ntcir/14-NTCIR14-STC-LiX.pdf
-  title: RUCIR at NTCIR-14 STC-3 Task
-  authors:
-  - Xiaohe Li
-  - Jiaqing Liu
-  - Weihao Zheng
-  - Xiangbo Wang
-  - Yutao Zhu
-  - Zhicheng Dou
-  publisher: NTCIR
-  date: '2019-01-01'
-  link: https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings14/pdf/ntcir/14-NTCIR14-STC-LiX.pdf
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1007/978-3-030-36805-0_12
   title: A Hybrid Framework of Emotion-Aware Seq2Seq Model for Emotional Conversation
     Generation
@@ -3885,35 +3816,6 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings14/pdf/ntcir/01-NTCIR14-OV-WWW-MaoJ.pdf
-  title: Overview of the NTCIR-14 We Want Web Task
-  authors:
-  - Jiaxin Mao
-  - Tetsuya Sakai
-  - Cheng Luo
-  - Peng Xiao
-  - Yiqun Liu
-  - Zhicheng Dou
-  publisher: NTCIR
-  date: '2019-01-01'
-  link: https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings14/pdf/ntcir/01-NTCIR14-OV-WWW-MaoJ.pdf
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings14/pdf/ntcir/04-NTCIR14-WWW-YangX.pdf
-  title: RUCIR at the NTCIR-14 We Want Web-2 Task
-  authors:
-  - Xue Yang
-  - Shuqi Lu
-  - Shijun Wang
-  - Han Zhang
-  - Zhicheng Dou
-  publisher: NTCIR
-  date: '2019-01-01'
-  link: https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings14/pdf/ntcir/04-NTCIR14-WWW-YangX.pdf
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1145/3331184.3331218
   title: 'PSGAN: A Minimax Game for Personalized Search with Limited and Noisy Click
     Data'
@@ -3926,19 +3828,6 @@
   publisher: SIGIR
   date: '2019-01-01'
   link: https://doi.org/10.1145/3331184.3331218
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: https://trec.nist.gov/pubs/trec28/papers/RUCIR.C.pdf
-  title: 'RUCIR at TREC 2019: Conversational Assistance Track'
-  authors:
-  - Xiaochen Zuo
-  - Xue Yang
-  - Zhicheng Dou
-  - Ji-Rong Wen
-  publisher: TREC
-  date: '2019-01-01'
-  link: https://trec.nist.gov/pubs/trec28/papers/RUCIR.C.pdf
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -4009,48 +3898,6 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings13/pdf/ntcir/08-NTCIR13-STC-ZhuY.pdf
-  title: RUCIR at the NTCIR-13 STC-2 Task
-  authors:
-  - Yutao Zhu
-  - Zhicheng Dou
-  - Xiangbo Wang
-  - Xiaochen Zuo
-  - Shuqi Lu
-  - Zhengyi Ma
-  - Xinyu Zhang
-  publisher: NTCIR
-  date: '2017-01-01'
-  link: https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings13/pdf/ntcir/08-NTCIR13-STC-ZhuY.pdf
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings13/pdf/ntcir/01-NTCIR13-OV-WWW-LuoC.pdf
-  title: Overview of the NTCIR-13 We Want Web Task
-  authors:
-  - Cheng Luo
-  - Tetsuya Sakai
-  - Yiqun Liu
-  - Zhicheng Dou
-  - Chenyan Xiong
-  - Jingfang Xu
-  publisher: NTCIR
-  date: '2017-01-01'
-  link: https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings13/pdf/ntcir/01-NTCIR13-OV-WWW-LuoC.pdf
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings13/pdf/ntcir/03-NTCIR13-WWW-YueM.pdf
-  title: RUCIR at NTCIR-13 WWW Task
-  authors:
-  - Ming Yue
-  - Zhicheng Dou
-  publisher: NTCIR
-  date: '2017-01-01'
-  link: https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings13/pdf/ntcir/03-NTCIR13-WWW-YueM.pdf
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1145/3077136.3080805
   title: Learning to Diversify Search Results via Subtopic Attention
   authors:
@@ -4100,39 +3947,6 @@
   publisher: World Wide Web
   date: '2016-01-01'
   link: https://doi.org/10.1007/s11280-015-0374-9
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings12/pdf/ntcir/OVERVIEW/01-NTCIR12-OV-IMINE-YamamotoT.pdf
-  title: Overview of the NTCIR-12 IMine-2 Task
-  authors:
-  - Takehiro Yamamoto
-  - Yiqun Liu
-  - Min Zhang
-  - Zhicheng Dou
-  - Ke Zhou
-  - Ilya Markov
-  - Makoto P. Kato
-  - Hiroaki Ohshima
-  - Sumio Fujita
-  publisher: NTCIR
-  date: '2016-01-01'
-  link: http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings12/pdf/ntcir/OVERVIEW/01-NTCIR12-OV-IMINE-YamamotoT.pdf
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings12/pdf/ntcir/IMINE/04-NTCIR12-IMINE-YueM.pdf
-  title: RUCIR at NTCIR-12 IMINE-2 Task
-  authors:
-  - Ming Yue
-  - Zhicheng Dou
-  - Sha Hu
-  - Jinxiu Li
-  - Xiaojie Wang
-  - Ji-Rong Wen
-  publisher: NTCIR
-  date: '2016-01-01'
-  link: http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings12/pdf/ntcir/IMINE/04-NTCIR12-IMINE-YueM.pdf
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -4231,23 +4045,6 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings11/pdf/NTCIR/OVERVIEW/01-NTCIR11-OV-IMINE-LiuY.pdf
-  title: Overview of the NTCIR-11 IMine Task
-  authors:
-  - Yiqun Liu
-  - Ruihua Song
-  - Min Zhang
-  - Zhicheng Dou
-  - Takehiro Yamamoto
-  - Makoto P. Kato
-  - Hiroaki Ohshima
-  - Ke Zhou
-  publisher: NTCIR
-  date: '2014-01-01'
-  link: http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings11/pdf/NTCIR/OVERVIEW/01-NTCIR11-OV-IMINE-LiuY.pdf
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1007/s10791-013-9221-8
   title: Mining subtopics from text fragments for a web query
   authors:
@@ -4288,46 +4085,6 @@
   publisher: EMNLP
   date: '2013-01-01'
   link: https://doi.org/10.18653/v1/d13-1045
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings10/pdf/NTCIR/1CLICK/03-NTCIR10-1CLICK-KazuyaN.pdf
-  title: MSRA at NTCIR-10 1CLICK-2
-  authors:
-  - Kazuya Narita
-  - Tetsuya Sakai
-  - Zhicheng Dou
-  - Young-In Song
-  publisher: NTCIR
-  date: '2013-01-01'
-  link: http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings10/pdf/NTCIR/1CLICK/03-NTCIR10-1CLICK-KazuyaN.pdf
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings10/pdf/NTCIR/OVERVIEW/01-NTCIR10-OV-INTENT-SakaiT.pdf
-  title: Overview of the NTCIR-10 INTENT-2 Task
-  authors:
-  - Tetsuya Sakai
-  - Zhicheng Dou
-  - Takehiro Yamamoto
-  - Yiqun Liu
-  - Min Zhang
-  - Ruihua Song
-  publisher: NTCIR
-  date: '2013-01-01'
-  link: http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings10/pdf/NTCIR/OVERVIEW/01-NTCIR10-OV-INTENT-SakaiT.pdf
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings10/pdf/NTCIR/INTENT/06-NTCIR10-INTENT-TsukudaK.pdf
-  title: Microsoft Research Asia at the NTCIR-10 Intent Task
-  authors:
-  - Kosetsu Tsukuda
-  - Zhicheng Dou
-  - Tetsuya Sakai
-  publisher: NTCIR
-  date: '2013-01-01'
-  link: http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings10/pdf/NTCIR/INTENT/06-NTCIR10-INTENT-TsukudaK.pdf
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -4400,21 +4157,6 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings9/NTCIR/04-NTCIR9-INTENT-HanJ.pdf
-  title: Microsoft Research Asia at the NTCIR-9 Intent Task
-  authors:
-  - Jialong Han
-  - Qinglei Wang
-  - Naoki Orii
-  - Zhicheng Dou
-  - Tetsuya Sakai
-  - Ruihua Song
-  publisher: NTCIR
-  date: '2011-01-01'
-  link: http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings9/NTCIR/04-NTCIR9-INTENT-HanJ.pdf
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1145/1935826.1935897
   title: Multi-dimensional search result diversification
   authors:
@@ -4442,21 +4184,6 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings8/EVIA/07-EVIA2010-SakaiT.pdf
-  title: Simple Evaluation Metrics for Diversified Search Results
-  authors:
-  - Tetsuya Sakai
-  - Nick Craswell
-  - Ruihua Song
-  - Stephen Robertson
-  - Zhicheng Dou
-  - Chin-Yew Lin
-  publisher: EVIA@NTCIR
-  date: '2010-01-01'
-  link: http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings8/EVIA/07-EVIA2010-SakaiT.pdf
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1109/TKDE.2008.172
   title: Evaluating the Effectiveness of Personalized Web Search
   authors:
@@ -4480,21 +4207,6 @@
   publisher: SIGIR
   date: '2009-01-01'
   link: https://doi.org/10.1145/1571941.1571982
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: http://trec.nist.gov/pubs/trec18/papers/microsoft-asia.WEB.pdf
-  title: Microsoft Research Asia at the Web Track of TREC 2009
-  authors:
-  - Zhicheng Dou
-  - Kun Chen
-  - Ruihua Song
-  - Yunxiao Ma
-  - Shuming Shi
-  - Ji-Rong Wen
-  publisher: TREC
-  date: '2009-01-01'
-  link: http://trec.nist.gov/pubs/trec18/papers/microsoft-asia.WEB.pdf
   type: paper
   plugin: sources.py
   file: sources.yaml
