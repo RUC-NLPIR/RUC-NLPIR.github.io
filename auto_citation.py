@@ -39,6 +39,10 @@ def extract_dblp_to_yaml():
                 if author.text:
                     authors.append(author.text)
 
+            for editor in pub.findall('editor'):
+                if editor.text:
+                    authors.append(editor.text)
+
             # 出版社/会议地点
             # 优先级：期刊 -> 论文集 -> 学校（针对论文）
             publisher = "Unknown Publisher"
