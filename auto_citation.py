@@ -2,7 +2,7 @@ import requests
 import xml.etree.ElementTree as ET
 import html
 import yaml
-
+from loguru import logger
 
 def extract_dblp_to_yaml():
     url = "https://dblp.org/pid/18/5740.xml"
@@ -29,7 +29,11 @@ def extract_dblp_to_yaml():
 
             # 提取基本信息
             title = pub.find('title')
-            title_text = title.text if title is not None else "Unknown Title"
+            if title is not None:
+                # 使用 itertext() 提取所有文本内容，包括子元素中的文本
+                title_text = ''.join(title.itertext())
+            else:
+                title_text = "Unknown Title"
             # 如果存在末尾的点则移除
             if title_text.endswith('.'):
                 title_text = title_text[:-1]
@@ -105,7 +109,9 @@ def extract_dblp_to_yaml():
                 # skip
                 continue
 
-            publisher.replace("CoRR", "ArXiv")
+            if "arxiv" in link.lower():
+                publisher = publisher.replace("CoRR", "ArXiv")
+
             # Haonan Chen 0005 处理作者后面的编号
             for i, author in enumerate(authors):
                 if " 00" in author:
@@ -133,12 +139,18 @@ def extract_dblp_to_yaml():
             title_entries[title] = paper
         else:
             # 保留非 arXiv 版本
-            if title_entries[title]['publisher'] == "ArXiv":
+            if title_entries[title]['publisher'] == "ArXiv" and paper["publisher"] != "ArXiv":
                 title_entries[title] = paper
+                logger.info(f"Keeping non-ArXiv paper {title} over ArXiv paper.")
+            elif title_entries[title]['publisher'] != "ArXiv" and paper["publisher"] == "ArXiv":
+                logger.info(f"Keeping original paper {title} over ArXiv paper.")
             else:
                 # 保留更新的版本
                 if paper['date'] > title_entries[title]['date']:
                     title_entries[title] = paper
+                    logger.info(f"Paper {title} is newer than existing paper, keeping it.")
+
+    papers = list(title_entries.values())
 
     # 按日期降序排序（通常做法），或保持 DBLP 顺序（通常是按时间顺序）
     # 让我们按降序排序，以便首先显示最新的
