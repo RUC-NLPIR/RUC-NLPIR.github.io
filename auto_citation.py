@@ -112,6 +112,12 @@ def extract_dblp_to_yaml():
             if "arxiv" in link.lower():
                 publisher = publisher.replace("CoRR", "ArXiv")
 
+            # 匹配 ACL (1) 这种括号内纯数字的情况
+            if " (" in publisher and publisher.split(" (")[-1].split(")")[0].isdigit():
+                publisher = publisher.split(" (")[0]
+            # else:
+            #     publisher = publisher.replace("(", "").replace(")", "")
+
             # Haonan Chen 0005 处理作者后面的编号
             for i, author in enumerate(authors):
                 if " 00" in author:
