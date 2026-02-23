@@ -97,6 +97,15 @@ def extract_dblp_to_yaml():
                 # 提取 doi.org/ 之后的部分
                 doi_part = link.split("doi.org/")[-1]
                 paper_id = f"doi:{doi_part}"
+            elif "research.nii.ac.jp" in link or "trec.nist.gov" in link:
+                # skip
+                continue
+
+            publisher.replace("CoRR", "ArXiv")
+            # Haonan Chen 0005 处理作者后面的编号
+            for i, author in enumerate(authors):
+                if " 00" in author:
+                    authors[i] = author.split(" 00")[0]
 
             # 构建字典
             paper_entry = {
@@ -111,6 +120,21 @@ def extract_dblp_to_yaml():
                 'file': 'sources.yaml'
             }
             papers.append(paper_entry)
+
+    # title deduplication
+    title_entries = {}
+    for paper in papers:
+        title = paper['title']
+        if title not in title_entries:
+            title_entries[title] = paper
+        else:
+            # 保留非 arXiv 版本
+            if title_entries[title]['publisher'] == "ArXiv":
+                title_entries[title] = paper
+            else:
+                # 保留更新的版本
+                if paper['date'] > title_entries[title]['date']:
+                    title_entries[title] = paper
 
     # 按日期降序排序（通常做法），或保持 DBLP 顺序（通常是按时间顺序）
     # 让我们按降序排序，以便首先显示最新的
