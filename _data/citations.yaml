@@ -8,7 +8,7 @@
   - Radu Timofte
   - Tetsuya Sakai
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2026-01-01'
   link: https://doi.org/10.48550/arXiv.2601.03666
   type: paper
@@ -23,7 +23,7 @@
   - Jiejun Tan
   - Yutao Zhu
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2026-01-01'
   link: https://doi.org/10.48550/arXiv.2601.04726
   type: paper
@@ -35,7 +35,7 @@
   - Tongyu Wen
   - Guanting Dong
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2026-01-01'
   link: https://doi.org/10.48550/arXiv.2601.04888
   type: paper
@@ -51,7 +51,7 @@
   - Yutao Zhu
   - Zhicheng Dou
   - Ji-Rong Wen
-  publisher: CoRR
+  publisher: ArXiv
   date: '2026-01-01'
   link: https://doi.org/10.48550/arXiv.2601.05808
   type: paper
@@ -64,7 +64,7 @@
   - Yifei Chen
   - Guanting Dong
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2026-01-01'
   link: https://doi.org/10.48550/arXiv.2601.06860
   type: paper
@@ -80,7 +80,7 @@
   - Daiting Shi
   - Dawei Yin
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2026-01-01'
   link: https://doi.org/10.48550/arXiv.2601.11888
   type: paper
@@ -92,7 +92,7 @@
   - Hangyu Mao
   - Guangting Dong
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-12-01'
   link: https://doi.org/10.48550/arXiv.2512.10365
   type: paper
@@ -148,7 +148,7 @@
   - Xuanjing Huang
   - Yu-Gang Jiang
   - Shuicheng Yan
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-12-01'
   link: https://doi.org/10.48550/arXiv.2512.13564
   type: paper
@@ -164,7 +164,7 @@
   - Herberttli
   - Bobsimons
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-12-01'
   link: https://doi.org/10.48550/arXiv.2512.20458
   type: paper
@@ -206,7 +206,7 @@
   - Yutao Zhu
   - Ji-Rong Wen
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-10-01'
   link: https://doi.org/10.48550/arXiv.2510.14545
   type: paper
@@ -221,7 +221,7 @@
   - Hongjin Qian
   - Yutao Zhu
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-10-01'
   link: https://doi.org/10.48550/arXiv.2510.16844
   type: paper
@@ -234,7 +234,7 @@
   - Guanting Dong
   - Xinyu Yang
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-10-01'
   link: https://doi.org/10.48550/arXiv.2510.17354
   type: paper
@@ -254,7 +254,7 @@
   - Ji-Rong Wen
   - Yuan Lu
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-10-01'
   link: https://doi.org/10.48550/arXiv.2510.21618
   type: paper
@@ -267,7 +267,7 @@
   - Mengjie Deng
   - Guanting Dong
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-10-01'
   link: https://doi.org/10.48550/arXiv.2510.27363
   type: paper
@@ -308,7 +308,7 @@
   - Haitao Mi
   - Dong Yu
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-09-01'
   link: https://doi.org/10.48550/arXiv.2509.15763
   type: paper
@@ -320,14 +320,14 @@
   - Yifei Chen
   - Guanting Dong
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-09-01'
   link: https://doi.org/10.48550/arXiv.2509.23285
   type: paper
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2509.26378
-  title: MR
+  title: 'MR2-Bench: Going Beyond Matching to Reasoning in Multimodal Retrieval'
   authors:
   - Junjie Zhou
   - Ze Liu
@@ -342,7 +342,7 @@
   - Defu Lian
   - Yongping Xiong
   - Zheng Liu
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-09-01'
   link: https://doi.org/10.48550/arXiv.2509.26378
   type: paper
@@ -358,7 +358,7 @@
   - Yuchen Li
   - Dawei Yin
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-08-01'
   link: https://doi.org/10.48550/arXiv.2508.07050
   type: paper
@@ -375,7 +375,7 @@
   - Qiang Ju
   - Jian Xie
   - Ji-Rong Wen
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-08-01'
   link: https://doi.org/10.48550/arXiv.2508.08088
   type: paper
@@ -389,7 +389,7 @@
   - Guanting Dong
   - Yutao Zhu
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-08-01'
   link: https://doi.org/10.48550/arXiv.2508.13828
   type: paper
@@ -401,7 +401,7 @@
   - Xinyu Yang
   - Chenlong Deng
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-08-01'
   link: https://doi.org/10.48550/arXiv.2508.16383
   type: paper
@@ -436,22 +436,9 @@
   - Zhao Yang
   - Hongjin Qian
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-07-01'
   link: https://doi.org/10.48550/arXiv.2507.02652
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2507.15675
-  title: 'P3: Prompts Promote Prompting'
-  authors:
-  - Xinyu Zhang
-  - Yuanquan Hu
-  - Fangchao Liu
-  - Zhicheng Dou
-  publisher: CoRR
-  date: '2025-07-01'
-  link: https://doi.org/10.48550/arXiv.2507.15675
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -472,7 +459,7 @@
   - Yutao Zhu
   - Ji-Rong Wen
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-07-01'
   link: https://doi.org/10.48550/arXiv.2507.19849
   type: paper
@@ -558,7 +545,7 @@
   - Ning Hu
   - Zhicheng Dou
   - Chenyan Xiong
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-06-01'
   link: https://doi.org/10.48550/arXiv.2506.01689
   type: paper
@@ -571,25 +558,9 @@
   - Zhicheng Dou
   - Ning Hu
   - Chenyan Xiong
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-06-01'
   link: https://doi.org/10.48550/arXiv.2506.01704
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2506.03501
-  title: 'Measuring Human Involvement in AI-Generated Text: A Case Study on Academic
-    Writing'
-  authors:
-  - Yuchen Guo
-  - Zhicheng Dou
-  - Huy H. Nguyen
-  - Ching-Chun Chang
-  - Saku Sugawara
-  - Isao Echizen
-  publisher: CoRR
-  date: '2025-06-01'
-  link: https://doi.org/10.48550/arXiv.2506.03501
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -602,7 +573,7 @@
   - Hongjin Qian
   - Ji-Rong Wen
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-06-01'
   link: https://doi.org/10.48550/arXiv.2506.10821
   type: paper
@@ -619,7 +590,7 @@
   - Nan Yang
   - Furu Wei
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-06-01'
   link: https://doi.org/10.48550/arXiv.2506.23115
   type: paper
@@ -674,74 +645,6 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/arXiv.2505.06311
-  title: Defending against Indirect Prompt Injection by Instruction Detection
-  authors:
-  - Tongyu Wen
-  - Chenglong Wang
-  - Xiyuan Yang
-  - Haoyu Tang
-  - Yueqi Xie
-  - Lingjuan Lyu
-  - Zhicheng Dou
-  - Fangzhao Wu
-  publisher: CoRR
-  date: '2025-05-01'
-  link: https://doi.org/10.48550/arXiv.2505.06311
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2505.10413
-  title: Hierarchical Document Refinement for Long-context Retrieval-augmented Generation
-  authors:
-  - Jiajie Jin
-  - Xiaoxi Li
-  - Guanting Dong
-  - Yuyao Zhang
-  - Yutao Zhu
-  - Yongkang Wu
-  - Zhonghua Li
-  - Qi Ye
-  - Zhicheng Dou
-  publisher: CoRR
-  date: '2025-05-01'
-  link: https://doi.org/10.48550/arXiv.2505.10413
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2505.11932
-  title: Neuro-Symbolic Query Compiler
-  authors:
-  - Yuyao Zhang
-  - Zhicheng Dou
-  - Xiaoxi Li
-  - Jiajie Jin
-  - Yongkang Wu
-  - Zhonghua Li
-  - Qi Ye
-  - Ji-Rong Wen
-  publisher: CoRR
-  date: '2025-05-01'
-  link: https://doi.org/10.48550/arXiv.2505.11932
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2505.15444
-  title: 'Single LLM, Multiple Roles: A Unified Retrieval-Augmented Generation Framework
-    Using Role-Specific Token Optimization'
-  authors:
-  - Yutao Zhu
-  - Jiajie Jin
-  - Hongjin Qian
-  - Zheng Liu
-  - Zhicheng Dou
-  - Ji-Rong Wen
-  publisher: CoRR
-  date: '2025-05-01'
-  link: https://doi.org/10.48550/arXiv.2505.15444
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.48550/arXiv.2505.16410
   title: 'Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement
     Learning'
@@ -756,7 +659,7 @@
   - Guorui Zhou
   - Zhicheng Dou
   - Ji-Rong Wen
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-05-01'
   link: https://doi.org/10.48550/arXiv.2505.16410
   type: paper
@@ -768,7 +671,7 @@
   authors:
   - Jiehan Cheng
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-05-01'
   link: https://doi.org/10.48550/arXiv.2505.17162
   type: paper
@@ -783,7 +686,7 @@
   - Jindong Wang
   - Zhicheng Dou
   - Xing Xie
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-04-01'
   link: https://doi.org/10.48550/arXiv.2504.08820
   type: paper
@@ -800,7 +703,7 @@
   - Yongkang Wu
   - Ji-Rong Wen
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-04-01'
   link: https://doi.org/10.48550/arXiv.2504.21776
   type: paper
@@ -862,25 +765,9 @@
   - Y. Shu
   - Zhicheng Dou
   - Ji-Rong Wen
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-03-01'
   link: https://doi.org/10.48550/arXiv.2503.09149
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2503.23427
-  title: 'CoRanking: Collaborative Ranking with Small and Large Ranking Agents'
-  authors:
-  - Wenhan Liu
-  - Xinyu Ma
-  - Yutao Zhu
-  - Lixin Su
-  - Shuaiqiang Wang
-  - Dawei Yin
-  - Zhicheng Dou
-  publisher: CoRR
-  date: '2025-03-01'
-  link: https://doi.org/10.48550/arXiv.2503.23427
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -892,26 +779,9 @@
   - Haihong Tang
   - Zhicheng Dou
   - Chenyan Xiong
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-02-01'
   link: https://doi.org/10.48550/arXiv.2502.06812
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2502.08468
-  title: 'mmE5: Improving Multimodal Multilingual Embeddings via High-quality Synthetic
-    Data'
-  authors:
-  - Haonan Chen
-  - Liang Wang
-  - Nan Yang
-  - Yutao Zhu
-  - Ziliang Zhao
-  - Furu Wei
-  - Zhicheng Dou
-  publisher: CoRR
-  date: '2025-02-01'
-  link: https://doi.org/10.48550/arXiv.2502.08468
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -928,7 +798,7 @@
   - Zhicheng Dou
   - Ji-Rong Wen
   - Maarten de Rijke
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-02-01'
   link: https://doi.org/10.48550/arXiv.2502.11883
   type: paper
@@ -947,7 +817,7 @@
   - Zhao Cao
   - Zhicheng Dou
   - Ji-Rong Wen
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-02-01'
   link: https://doi.org/10.48550/arXiv.2502.12558
   type: paper
@@ -963,7 +833,7 @@
   - Yankai Wang
   - Defu Lian
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-02-01'
   link: https://doi.org/10.48550/arXiv.2502.13465
   type: paper
@@ -1761,26 +1631,9 @@
   - Qingyao Ai
   - Zhicheng Dou
   - Min Zhang
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-01-01'
   link: https://doi.org/10.48550/arXiv.2501.02838
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2501.05366
-  title: 'Search-o1: Agentic Search-Enhanced Large Reasoning Models'
-  authors:
-  - Xiaoxi Li
-  - Guanting Dong
-  - Jiajie Jin
-  - Yuyao Zhang
-  - Yujia Zhou
-  - Yutao Zhu
-  - Peitian Zhang
-  - Zhicheng Dou
-  publisher: CoRR
-  date: '2025-01-01'
-  link: https://doi.org/10.48550/arXiv.2501.05366
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -1799,7 +1652,7 @@
   - Zhicheng Dou
   - Maosong Sun
   - Xing Xie
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-01-01'
   link: https://doi.org/10.48550/arXiv.2501.07071
   type: paper
@@ -1814,7 +1667,7 @@
   - Xiaolong Huang
   - Zhicheng Dou
   - Furu Wei
-  publisher: CoRR
+  publisher: ArXiv
   date: '2025-01-01'
   link: https://doi.org/10.48550/arXiv.2501.14342
   type: paper
@@ -2367,42 +2220,9 @@
   - Ninglu Shao
   - Qiwei Ye
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2024-01-01'
   link: https://doi.org/10.48550/arXiv.2401.03462
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2401.06532
-  title: 'INTERS: Unlocking the Power of Large Language Models in Search with Instruction
-    Tuning'
-  authors:
-  - Yutao Zhu
-  - Peitian Zhang
-  - Chenghao Zhang
-  - Yifei Chen
-  - Binyu Xie
-  - Zhicheng Dou
-  - Zheng Liu
-  - Ji-Rong Wen
-  publisher: CoRR
-  date: '2024-01-01'
-  link: https://doi.org/10.48550/arXiv.2401.06532
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2401.08046
-  title: 'Enhancing Robustness of LLM-Synthetic Text Detectors for Academic Writing:
-    A Comprehensive Analysis'
-  authors:
-  - Zhicheng Dou
-  - Yuchen Guo
-  - Ching-Chun Chang
-  - Huy H. Nguyen
-  - Isao Echizen
-  publisher: CoRR
-  date: '2024-01-01'
-  link: https://doi.org/10.48550/arXiv.2401.08046
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -2413,7 +2233,7 @@
   - Haonan Chen
   - Zhicheng Dou
   - Jiaxin Mao
-  publisher: CoRR
+  publisher: ArXiv
   date: '2024-01-01'
   link: https://doi.org/10.48550/arXiv.2401.12445
   type: paper
@@ -2427,123 +2247,9 @@
   - Zhicheng Dou
   - Yujia Zhou
   - Fangchao Liu
-  publisher: CoRR
+  publisher: ArXiv
   date: '2024-01-01'
   link: https://doi.org/10.48550/arXiv.2402.01176
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2402.07076
-  title: Enhancing Multi-field B2B Cloud Solution Matching via Contrastive Pre-training
-  authors:
-  - Haonan Chen
-  - Zhicheng Dou
-  - Xuetong Hao
-  - Yunhao Tao
-  - Shiren Song
-  - Zhenli Sheng
-  publisher: CoRR
-  date: '2024-01-01'
-  link: https://doi.org/10.48550/arXiv.2402.07076
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2402.07092
-  title: Generalizing Conversational Dense Retrieval via LLM-Cognition Data Augmentation
-  authors:
-  - Haonan Chen
-  - Zhicheng Dou
-  - Kelong Mao
-  - Jiongnan Liu
-  - Ziliang Zhao
-  publisher: CoRR
-  date: '2024-01-01'
-  link: https://doi.org/10.48550/arXiv.2402.07092
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2402.09760
-  title: Grounding Language Model with Chunking-Free In-Context Retrieval
-  authors:
-  - Hongjin Qian
-  - Zheng Liu
-  - Kelong Mao
-  - Yujia Zhou
-  - Zhicheng Dou
-  publisher: CoRR
-  date: '2024-01-01'
-  link: https://doi.org/10.48550/arXiv.2402.09760
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2402.10548
-  title: Cognitive Personalized Search Integrating Large Language Models with an Efficient
-    Memory Mechanism
-  authors:
-  - Yujia Zhou
-  - Qiannan Zhu
-  - Jiajie Jin
-  - Zhicheng Dou
-  publisher: CoRR
-  date: '2024-01-01'
-  link: https://doi.org/10.48550/arXiv.2402.10548
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2402.11626
-  title: Metacognitive Retrieval-Augmented Large Language Models
-  authors:
-  - Yujia Zhou
-  - Zheng Liu
-  - Jiajie Jin
-  - Jian-Yun Nie
-  - Zhicheng Dou
-  publisher: CoRR
-  date: '2024-01-01'
-  link: https://doi.org/10.48550/arXiv.2402.11626
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2402.12052
-  title: 'Small Models, Big Insights: Leveraging Slim Proxy Models To Decide When
-    and What to Retrieve for LLMs'
-  authors:
-  - Jiejun Tan
-  - Zhicheng Dou
-  - Yutao Zhu
-  - Peidong Guo
-  - Kun Fang
-  - Ji-Rong Wen
-  publisher: CoRR
-  date: '2024-01-01'
-  link: https://doi.org/10.48550/arXiv.2402.12052
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2402.12174
-  title: 'BIDER: Bridging Knowledge Inconsistency for Efficient Retrieval-Augmented
-    LLMs via Key Supporting Evidence'
-  authors:
-  - Jiajie Jin
-  - Yutao Zhu
-  - Yujia Zhou
-  - Zhicheng Dou
-  publisher: CoRR
-  date: '2024-01-01'
-  link: https://doi.org/10.48550/arXiv.2402.12174
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2402.12774
-  title: Interpreting Conversational Dense Retrieval by Rewriting-Enhanced Inversion
-    of Session Embedding
-  authors:
-  - Yiruo Cheng
-  - Kelong Mao
-  - Zhicheng Dou
-  publisher: CoRR
-  date: '2024-01-01'
-  link: https://doi.org/10.48550/arXiv.2402.12774
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -2555,60 +2261,9 @@
   - Zhicheng Dou
   - Yutao Zhu
   - Ji-Rong Wen
-  publisher: CoRR
+  publisher: ArXiv
   date: '2024-01-01'
   link: https://doi.org/10.48550/arXiv.2402.14690
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2403.13291
-  title: An Analysis on Matching Mechanisms and Token Pruning for Late-interaction
-    Models
-  authors:
-  - Qi Liu
-  - Gang Guo
-  - Jiaxin Mao
-  - Zhicheng Dou
-  - Ji-Rong Wen
-  - Hao Jiang
-  - Xinyu Zhang
-  - Zhao Cao
-  publisher: CoRR
-  date: '2024-01-01'
-  link: https://doi.org/10.48550/arXiv.2403.13291
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2404.13556
-  title: 'ChatRetriever: Adapting Large Language Models for Generalized and Robust
-    Conversational Dense Retrieval'
-  authors:
-  - Kelong Mao
-  - Chenlong Deng
-  - Haonan Chen
-  - Fengran Mo
-  - Zheng Liu
-  - Tetsuya Sakai
-  - Zhicheng Dou
-  publisher: CoRR
-  date: '2024-01-01'
-  link: https://doi.org/10.48550/arXiv.2404.13556
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2404.14851
-  title: 'From Matching to Generation: A Survey on Generative Information Retrieval'
-  authors:
-  - Xiaoxi Li
-  - Jiajie Jin
-  - Yujia Zhou
-  - Yuyao Zhang
-  - Peitian Zhang
-  - Yutao Zhu
-  - Zhicheng Dou
-  publisher: CoRR
-  date: '2024-01-01'
-  link: https://doi.org/10.48550/arXiv.2404.14851
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -2622,24 +2277,9 @@
   - Hongjin Qian
   - Qiwei Ye
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2024-01-01'
   link: https://doi.org/10.48550/arXiv.2404.19553
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2405.13576
-  title: 'FlashRAG: A Modular Toolkit for Efficient Retrieval-Augmented Generation
-    Research'
-  authors:
-  - Jiajie Jin
-  - Yutao Zhu
-  - Xinyu Yang
-  - Chenghao Zhang
-  - Zhicheng Dou
-  publisher: CoRR
-  date: '2024-01-01'
-  link: https://doi.org/10.48550/arXiv.2405.13576
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -2653,23 +2293,9 @@
   - Yujia Zhou
   - Xu Chen
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2024-01-01'
   link: https://doi.org/10.48550/arXiv.2405.15318
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2405.19670
-  title: One Token Can Help! Learning Scalable and Pluggable Virtual Tokens for Retrieval-Augmented
-    Large Language Models
-  authors:
-  - Yutao Zhu
-  - Zhaoheng Huang
-  - Zhicheng Dou
-  - Ji-Rong Wen
-  publisher: CoRR
-  date: '2024-01-01'
-  link: https://doi.org/10.48550/arXiv.2405.19670
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -2686,7 +2312,7 @@
   - Kun Fang
   - Yutao Zhu
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2024-01-01'
   link: https://doi.org/10.48550/arXiv.2406.05654
   type: paper
@@ -2700,25 +2326,9 @@
   - Haiwei Zhang
   - Zhicheng Dou
   - Xiaojie Yuan
-  publisher: CoRR
+  publisher: ArXiv
   date: '2024-01-01'
   link: https://doi.org/10.48550/arXiv.2406.10367
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2406.12566
-  title: 'RichRAG: Crafting Rich Responses for Multi-faceted Queries in Retrieval-Augmented
-    Generation'
-  authors:
-  - Shuting Wang
-  - Xin Yu
-  - Mang Wang
-  - Weipeng Chen
-  - Yutao Zhu
-  - Zhicheng Dou
-  publisher: CoRR
-  date: '2024-01-01'
-  link: https://doi.org/10.48550/arXiv.2406.12566
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -2729,37 +2339,9 @@
   - Wenhan Liu
   - Yutao Zhu
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2024-01-01'
   link: https://doi.org/10.48550/arXiv.2406.16332
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2406.18676
-  title: 'Understand What LLM Needs: Dual Preference Alignment for Retrieval-Augmented
-    Generation'
-  authors:
-  - Guanting Dong
-  - Yutao Zhu
-  - Chenghao Zhang
-  - Zechen Wang
-  - Zhicheng Dou
-  - Ji-Rong Wen
-  publisher: CoRR
-  date: '2024-01-01'
-  link: https://doi.org/10.48550/arXiv.2406.18676
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2406.19760
-  title: Learning Interpretable Legal Case Retrieval via Knowledge-Guided Case Reformulation
-  authors:
-  - Chenlong Deng
-  - Kelong Mao
-  - Zhicheng Dou
-  publisher: CoRR
-  date: '2024-01-01'
-  link: https://doi.org/10.48550/arXiv.2406.19760
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -2804,22 +2386,9 @@
   - Yueguo Chen
   - Weizheng Lu
   - Ji-Rong Wen
-  publisher: CoRR
+  publisher: ArXiv
   date: '2024-01-01'
   link: https://doi.org/10.48550/arXiv.2406.19853
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2407.01964
-  title: Enabling Discriminative Reasoning in LLMs for Legal Judgment Prediction
-  authors:
-  - Chenlong Deng
-  - Kelong Mao
-  - Yuyao Zhang
-  - Zhicheng Dou
-  publisher: CoRR
-  date: '2024-01-01'
-  link: https://doi.org/10.48550/arXiv.2407.01964
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -2830,38 +2399,9 @@
   - Zhicheng Dou
   - Yutao Zhu
   - Ji-Rong Wen
-  publisher: CoRR
+  publisher: ArXiv
   date: '2024-01-01'
   link: https://doi.org/10.48550/arXiv.2407.03720
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2407.18743
-  title: Towards Effective and Efficient Continual Pre-training of Large Language
-    Models
-  authors:
-  - Jie Chen
-  - Zhipeng Chen
-  - Jiapeng Wang
-  - Kun Zhou
-  - Yutao Zhu
-  - Jinhao Jiang
-  - Yingqian Min
-  - Wayne Xin Zhao
-  - Zhicheng Dou
-  - Jiaxin Mao
-  - Yankai Lin
-  - Ruihua Song
-  - Jun Xu
-  - Xu Chen
-  - Rui Yan
-  - Zhewei Wei
-  - Di Hu
-  - Wenbing Huang
-  - Ji-Rong Wen
-  publisher: CoRR
-  date: '2024-01-01'
-  link: https://doi.org/10.48550/arXiv.2407.18743
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -2873,7 +2413,7 @@
   - Zheng Liu
   - Kelong Mao
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2024-01-01'
   link: https://doi.org/10.48550/arXiv.2409.05591
   type: paper
@@ -2892,27 +2432,9 @@
   - Zhicheng Dou
   - Tsung-Yi Ho
   - Philip S. Yu
-  publisher: CoRR
+  publisher: ArXiv
   date: '2024-01-01'
   link: https://doi.org/10.48550/arXiv.2409.10102
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2409.11901
-  title: LLMs + Persona-Plug = Personalized LLMs
-  authors:
-  - Jiongnan Liu
-  - Yutao Zhu
-  - Shuting Wang
-  - Xiaochi Wei
-  - Erxue Min
-  - Yu Lu
-  - Shuaiqiang Wang
-  - Dawei Yin
-  - Zhicheng Dou
-  publisher: CoRR
-  date: '2024-01-01'
-  link: https://doi.org/10.48550/arXiv.2409.11901
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -2925,44 +2447,9 @@
   - Runqi Qiao
   - Zhicheng Dou
   - Ji-Rong Wen
-  publisher: CoRR
+  publisher: ArXiv
   date: '2024-01-01'
   link: https://doi.org/10.48550/arXiv.2410.09584
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2410.15576
-  title: A Survey of Conversational Search
-  authors:
-  - Fengran Mo
-  - Kelong Mao
-  - Ziliang Zhao
-  - Hongjin Qian
-  - Haonan Chen
-  - Yiruo Cheng
-  - Xiaoxi Li
-  - Yutao Zhu
-  - Zhicheng Dou
-  - Jian-Yun Nie
-  publisher: CoRR
-  date: '2024-01-01'
-  link: https://doi.org/10.48550/arXiv.2410.15576
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2410.18634
-  title: 'Little Giants: Synthesizing High-Quality Embedding Data at Scale'
-  authors:
-  - Haonan Chen
-  - Liang Wang
-  - Nan Yang
-  - Yutao Zhu
-  - Ziliang Zhao
-  - Furu Wei
-  - Zhicheng Dou
-  publisher: CoRR
-  date: '2024-01-01'
-  link: https://doi.org/10.48550/arXiv.2410.18634
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -2978,25 +2465,9 @@
   - Tetsuya Sakai
   - Ji-Rong Wen
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2024-01-01'
   link: https://doi.org/10.48550/arXiv.2410.23090
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2411.02959
-  title: 'HtmlRAG: HTML is Better Than Plain Text for Modeling Retrieved Knowledge
-    in RAG Systems'
-  authors:
-  - Jiejun Tan
-  - Zhicheng Dou
-  - Wen Wang
-  - Mang Wang
-  - Weipeng Chen
-  - Ji-Rong Wen
-  publisher: CoRR
-  date: '2024-01-01'
-  link: https://doi.org/10.48550/arXiv.2411.02959
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -3011,7 +2482,7 @@
   - Ruibin Xiong
   - Mang Wang
   - Weipeng Chen
-  publisher: CoRR
+  publisher: ArXiv
   date: '2024-01-01'
   link: https://doi.org/10.48550/arXiv.2411.03817
   type: paper
@@ -3024,26 +2495,9 @@
   - Yujia Zhou
   - Zheng Liu
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2024-01-01'
   link: https://doi.org/10.48550/arXiv.2411.06805
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2412.11919
-  title: 'RetroLLM: Empowering Large Language Models to Retrieve Fine-grained Evidence
-    within Generation'
-  authors:
-  - Xiaoxi Li
-  - Jiajie Jin
-  - Yujia Zhou
-  - Yongkang Wu
-  - Zhonghua Li
-  - Qi Ye
-  - Zhicheng Dou
-  publisher: CoRR
-  date: '2024-01-01'
-  link: https://doi.org/10.48550/arXiv.2412.11919
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -3055,72 +2509,9 @@
   - Peitian Zhang
   - Zhicheng Dou
   - Defu Lian
-  publisher: CoRR
+  publisher: ArXiv
   date: '2024-01-01'
   link: https://doi.org/10.48550/arXiv.2412.12486
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2412.13018
-  title: 'OmniEval: An Omnidirectional and Automatic RAG Evaluation Benchmark in Financial
-    Domain'
-  authors:
-  - Shuting Wang
-  - Jiejun Tan
-  - Zhicheng Dou
-  - Ji-Rong Wen
-  publisher: CoRR
-  date: '2024-01-01'
-  link: https://doi.org/10.48550/arXiv.2412.13018
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2412.14574
-  title: 'Sliding Windows Are Not the End: Exploring Full Ranking with Long-Context
-    Large Language Models'
-  authors:
-  - Wenhan Liu
-  - Xinyu Ma
-  - Yutao Zhu
-  - Ziliang Zhao
-  - Shuaiqiang Wang
-  - Dawei Yin
-  - Zhicheng Dou
-  publisher: CoRR
-  date: '2024-01-01'
-  link: https://doi.org/10.48550/arXiv.2412.14574
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2412.14835
-  title: Progressive Multimodal Reasoning via Active Retrieval
-  authors:
-  - Guanting Dong
-  - Chenghao Zhang
-  - Mengjie Deng
-  - Yutao Zhu
-  - Zhicheng Dou
-  - Ji-Rong Wen
-  publisher: CoRR
-  date: '2024-01-01'
-  link: https://doi.org/10.48550/arXiv.2412.14835
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2412.17483
-  title: A Silver Bullet or a Compromise for Full Attention? A Comprehensive Study
-    of Gist Token-based Context Compression
-  authors:
-  - Chenlong Deng
-  - Zhisong Zhang
-  - Kelong Mao
-  - Shuaiyi Li
-  - Xinting Huang
-  - Dong Yu
-  - Zhicheng Dou
-  publisher: CoRR
-  date: '2024-01-01'
-  link: https://doi.org/10.48550/arXiv.2412.17483
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -3561,21 +2952,6 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/arXiv.2303.06573
-  title: 'Large Language Models Know Your Contextual Search Intent: A Prompting Framework
-    for Conversational Search'
-  authors:
-  - Kelong Mao
-  - Zhicheng Dou
-  - Haonan Chen
-  - Fengran Mo
-  - Hongjin Qian
-  publisher: CoRR
-  date: '2023-01-01'
-  link: https://doi.org/10.48550/arXiv.2303.06573
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.48550/arXiv.2304.04358
   title: 'WebBrain: Learning to Generate Factually Correct Articles for Queries by
     Grounding on Large Web Corpus'
@@ -3590,7 +2966,7 @@
   - Zhao Cao
   - Jian-Yun Nie
   - Ji-Rong Wen
-  publisher: CoRR
+  publisher: ArXiv
   date: '2023-01-01'
   link: https://doi.org/10.48550/arXiv.2304.04358
   type: paper
@@ -3604,23 +2980,9 @@
   - Yujia Zhou
   - Zhicheng Dou
   - Zhao Cao
-  publisher: CoRR
+  publisher: ArXiv
   date: '2023-01-01'
   link: https://doi.org/10.48550/arXiv.2305.13859
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2305.14810
-  title: 'JDsearch: A Personalized Product Search Dataset with Real Queries and Full
-    Interactions'
-  authors:
-  - Jiongnan Liu
-  - Zhicheng Dou
-  - Guoyu Tang
-  - Sulong Xu
-  publisher: CoRR
-  date: '2023-01-01'
-  link: https://doi.org/10.48550/arXiv.2305.14810
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -3633,7 +2995,7 @@
   - Jiehan Cheng
   - Zhicheng Dou
   - Ji-Rong Wen
-  publisher: CoRR
+  publisher: ArXiv
   date: '2023-01-01'
   link: https://doi.org/10.48550/arXiv.2306.05212
   type: paper
@@ -3676,7 +3038,7 @@
   - Weinan Zhang
   - Min Zhang
   - Xiaofei Zhu
-  publisher: CoRR
+  publisher: ArXiv
   date: '2023-01-01'
   link: https://doi.org/10.48550/arXiv.2307.09751
   type: paper
@@ -3693,7 +3055,7 @@
   - Chenlong Deng
   - Zhicheng Dou
   - Ji-Rong Wen
-  publisher: CoRR
+  publisher: ArXiv
   date: '2023-01-01'
   link: https://doi.org/10.48550/arXiv.2308.07107
   type: paper
@@ -3712,7 +3074,7 @@
   - Xinyu Zhang
   - Zhao Cao
   - Ji-Rong Wen
-  publisher: CoRR
+  publisher: ArXiv
   date: '2023-01-01'
   link: https://doi.org/10.48550/arXiv.2308.15711
   type: paper
@@ -3726,22 +3088,9 @@
   - Zheng Liu
   - Zhicheng Dou
   - Jian-Yun Nie
-  publisher: CoRR
+  publisher: ArXiv
   date: '2023-01-01'
   link: https://doi.org/10.48550/arXiv.2310.07554
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2312.11036
-  title: 'UniGen: A Unified Generative Framework for Retrieval and Question Answering
-    with Large Language Models'
-  authors:
-  - Xiaoxi Li
-  - Yujia Zhou
-  - Zhicheng Dou
-  publisher: CoRR
-  date: '2023-01-01'
-  link: https://doi.org/10.48550/arXiv.2312.11036
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -4047,20 +3396,6 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://arxiv.org/abs/2202.10870
-  title: 'Socialformer: Social Network Inspired Long Document Modeling for Document
-    Ranking'
-  authors:
-  - Yujia Zhou
-  - Zhicheng Dou
-  - Huaying Yuan
-  - Zhengyi Ma
-  publisher: CoRR
-  date: '2022-01-01'
-  link: https://arxiv.org/abs/2202.10870
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
 - id: https://arxiv.org/abs/2202.13529
   title: 'KMIR: A Benchmark for Evaluating Knowledge Memorization, Identification
     and Reasoning Abilities of Language Models'
@@ -4074,7 +3409,7 @@
   - Xinyu Zhang
   - Lei Chen
   - Zhao Cao
-  publisher: CoRR
+  publisher: ArXiv
   date: '2022-01-01'
   link: https://arxiv.org/abs/2202.13529
   type: paper
@@ -4089,45 +3424,9 @@
   - Zhicheng Dou
   - Ledell Wu
   - Ji-Rong Wen
-  publisher: CoRR
+  publisher: ArXiv
   date: '2022-01-01'
   link: https://doi.org/10.48550/arXiv.2203.00537
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2204.08128
-  title: 'Less is More: Learning to Refine Dialogue History for Personalized Dialogue
-    Generation'
-  authors:
-  - Hanxun Zhong
-  - Zhicheng Dou
-  - Yutao Zhu
-  - Hongjin Qian
-  - Ji-Rong Wen
-  publisher: CoRR
-  date: '2022-01-01'
-  link: https://doi.org/10.48550/arXiv.2204.08128
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2208.09129
-  title: 'Coarse-to-Fine: Hierarchical Multi-task Learning for Natural Language Understanding'
-  authors:
-  - Zhaoye Fei
-  - Yu Tian
-  - Yongkang Wu
-  - Xinyu Zhang
-  - Yutao Zhu
-  - Zheng Liu
-  - Jiawen Wu
-  - Dejiang Kong
-  - Ruofei Lai
-  - Zhao Cao
-  - Zhicheng Dou
-  - Xipeng Qiu
-  publisher: CoRR
-  date: '2022-01-01'
-  link: https://doi.org/10.48550/arXiv.2208.09129
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -4140,41 +3439,9 @@
   - Ledell Wu
   - Peitian Zhang
   - Ji-Rong Wen
-  publisher: CoRR
+  publisher: ArXiv
   date: '2022-01-01'
   link: https://doi.org/10.48550/arXiv.2208.09257
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2208.10226
-  title: 'From Easy to Hard: A Dual Curriculum Learning Framework for Context-Aware
-    Document Ranking'
-  authors:
-  - Yutao Zhu
-  - Jian-Yun Nie
-  - Yixuan Su
-  - Haonan Chen
-  - Xinyu Zhang
-  - Zhicheng Dou
-  publisher: CoRR
-  date: '2022-01-01'
-  link: https://doi.org/10.48550/arXiv.2208.10226
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2208.10846
-  title: Enhancing User Behavior Sequence Modeling by Generative Tasks for Session
-    Search
-  authors:
-  - Haonan Chen
-  - Zhicheng Dou
-  - Yutao Zhu
-  - Zhao Cao
-  - Xiaohua Cheng
-  - Ji-Rong Wen
-  publisher: CoRR
-  date: '2022-01-01'
-  link: https://doi.org/10.48550/arXiv.2208.10846
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -4191,39 +3458,9 @@
   - Yongkang Wu
   - Zhao Cao
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2022-01-01'
   link: https://doi.org/10.48550/arXiv.2209.06583
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2210.08753
-  title: 'MCP: Self-supervised Pre-training for Personalized Chatbots with Multi-level
-    Contrastive Sampling'
-  authors:
-  - Zhaoheng Huang
-  - Zhicheng Dou
-  - Yutao Zhu
-  - Zhengyi Ma
-  publisher: CoRR
-  date: '2022-01-01'
-  link: https://doi.org/10.48550/arXiv.2210.08753
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2211.17171
-  title: 'CDSM: Cascaded Deep Semantic Matching on Textual Graphs Leveraging Ad-hoc
-    Neighbor Selection'
-  authors:
-  - Jing Yao
-  - Zheng Liu
-  - Junhan Yang
-  - Zhicheng Dou
-  - Xing Xie
-  - Ji-Rong Wen
-  publisher: CoRR
-  date: '2022-01-01'
-  link: https://doi.org/10.48550/arXiv.2211.17171
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -4536,23 +3773,9 @@
   - Kun Zhou
   - Pan Du
   - Zhicheng Dou
-  publisher: CoRR
+  publisher: ArXiv
   date: '2021-01-01'
   link: https://arxiv.org/abs/2101.08426
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: https://arxiv.org/abs/2101.11178
-  title: Neural Sentence Ordering Based on Constraint Graphs
-  authors:
-  - Yutao Zhu
-  - Kun Zhou
-  - Jian-Yun Nie
-  - Shengchao Liu
-  - Zhicheng Dou
-  publisher: CoRR
-  date: '2021-01-01'
-  link: https://arxiv.org/abs/2101.11178
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -4568,7 +3791,7 @@
   - Paul Bennett
   - Tie-Yan Liu
   - Arnold Overwijk
-  publisher: CoRR
+  publisher: ArXiv
   date: '2021-01-01'
   link: https://arxiv.org/abs/2102.09206
   type: paper
@@ -4612,7 +3835,7 @@
   - Wayne Xin Zhao
   - Ruihua Song
   - Ji-Rong Wen
-  publisher: CoRR
+  publisher: ArXiv
   date: '2021-01-01'
   link: https://arxiv.org/abs/2103.06561
   type: paper
@@ -4629,24 +3852,9 @@
   - Pan Du
   - Te Pi
   - Yantao Jia
-  publisher: CoRR
+  publisher: ArXiv
   date: '2021-01-01'
   link: https://arxiv.org/abs/2105.08251
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: https://arxiv.org/abs/2107.08329
-  title: Proactive Retrieval-based Chatbots based on Relevant Knowledge and Goals
-  authors:
-  - Yutao Zhu
-  - Jian-Yun Nie
-  - Kun Zhou
-  - Pan Du
-  - Hao Jiang
-  - Zhicheng Dou
-  publisher: CoRR
-  date: '2021-01-01'
-  link: https://arxiv.org/abs/2107.08329
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -4658,58 +3866,9 @@
   - Yutao Zhu
   - Yueyuan Ma
   - Ji-Rong Wen
-  publisher: CoRR
+  publisher: ArXiv
   date: '2021-01-01'
   link: https://arxiv.org/abs/2108.07935
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: https://arxiv.org/abs/2108.09346
-  title: 'Pre-training for Ad-hoc Retrieval: Hyperlink is Also You Need'
-  authors:
-  - Zhengyi Ma
-  - Zhicheng Dou
-  - Wei Xu
-  - Xinyu Zhang
-  - Hao Jiang
-  - Zhao Cao
-  - Ji-Rong Wen
-  publisher: CoRR
-  date: '2021-01-01'
-  link: https://arxiv.org/abs/2108.09346
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: https://arxiv.org/abs/2108.09355
-  title: 'One Chatbot Per Person: Creating Personalized Chatbots based on Implicit
-    User Profiles'
-  authors:
-  - Zhengyi Ma
-  - Zhicheng Dou
-  - Yutao Zhu
-  - Hanxun Zhong
-  - Ji-Rong Wen
-  publisher: CoRR
-  date: '2021-01-01'
-  link: https://arxiv.org/abs/2108.09355
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: https://arxiv.org/abs/2108.10510
-  title: Contrastive Learning of User Behavior Sequence for Context-Aware Document
-    Ranking
-  authors:
-  - Yutao Zhu
-  - Jian-Yun Nie
-  - Zhicheng Dou
-  - Zhengyi Ma
-  - Xinyu Zhang
-  - Pan Du
-  - Xiaochen Zuo
-  - Hao Jiang
-  publisher: CoRR
-  date: '2021-01-01'
-  link: https://arxiv.org/abs/2108.10510
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -4726,25 +3885,9 @@
   - Yantao Jia
   - Zhicheng Dou
   - Zhao Cao
-  publisher: CoRR
+  publisher: ArXiv
   date: '2021-01-01'
   link: https://arxiv.org/abs/2109.06436
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: https://arxiv.org/abs/2109.15012
-  title: 'USER: A Unified Information Search and Recommendation Model based on Integrated
-    Behavior Sequence'
-  authors:
-  - Jing Yao
-  - Zhicheng Dou
-  - Ruobing Xie
-  - Yanxiong Lu
-  - Zhiping Wang
-  - Ji-Rong Wen
-  publisher: CoRR
-  date: '2021-01-01'
-  link: https://arxiv.org/abs/2109.15012
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -4755,7 +3898,7 @@
   - Peitian Zhang
   - Zhicheng Dou
   - Jing Yao
-  publisher: CoRR
+  publisher: ArXiv
   date: '2021-01-01'
   link: https://arxiv.org/abs/2110.06459
   type: paper
@@ -4781,38 +3924,9 @@
   - Yantao Jia
   - Fan Yu
   - Zhao Cao
-  publisher: CoRR
+  publisher: ArXiv
   date: '2021-01-01'
   link: https://arxiv.org/abs/2110.07431
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: https://arxiv.org/abs/2111.12614
-  title: 'PSSL: Self-supervised Learning for Personalized Search with Contrastive
-    Sampling'
-  authors:
-  - Yujia Zhou
-  - Zhicheng Dou
-  - Yutao Zhu
-  - Ji-Rong Wen
-  publisher: CoRR
-  date: '2021-01-01'
-  link: https://arxiv.org/abs/2111.12614
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: https://arxiv.org/abs/2111.12618
-  title: Group based Personalized Search by Integrating Search Behaviour and Friend
-    Network
-  authors:
-  - Yujia Zhou
-  - Zhicheng Dou
-  - Bingzheng Wei
-  - Ruobing Xie
-  - Ji-Rong Wen
-  publisher: CoRR
-  date: '2021-01-01'
-  link: https://arxiv.org/abs/2111.12618
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -5004,37 +4118,6 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://arxiv.org/abs/2005.10331
-  title: 'ScriptWriter: Narrative-Guided Script Generation'
-  authors:
-  - Yutao Zhu
-  - Ruihua Song
-  - Zhicheng Dou
-  - Jian-Yun Nie
-  - Jin Zhou
-  publisher: CoRR
-  date: '2020-01-01'
-  link: https://arxiv.org/abs/2005.10331
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: https://arxiv.org/abs/2009.13284
-  title: 'Pchatbot: A Large-Scale Dataset for Personalized Chatbot'
-  authors:
-  - Xiaohe Li
-  - Hanxun Zhong
-  - Yu Guo
-  - Yueyuan Ma
-  - Hongjin Qian
-  - Zhanliang Liu
-  - Zhicheng Dou
-  - Ji-Rong Wen
-  publisher: CoRR
-  date: '2020-01-01'
-  link: https://arxiv.org/abs/2009.13284
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1007/978-3-030-31624-2_7
   title: Document-Level Named Entity Recognition by Incorporating Global and Neighbor
     Features
@@ -5079,7 +4162,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: http://arxiv.org/abs/1908.07600
+- id: doi:10.1145/3269206.3271728
   title: Personalizing Search Results Using Hierarchical RNN with Query-aware Attention
   authors:
   - Songwei Ge
@@ -5087,9 +4170,9 @@
   - Zhengbao Jiang
   - Jian-Yun Nie
   - Ji-Rong Wen
-  publisher: CoRR
-  date: '2019-01-01'
-  link: http://arxiv.org/abs/1908.07600
+  publisher: CIKM
+  date: '2018-01-01'
+  link: https://doi.org/10.1145/3269206.3271728
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -5119,20 +4202,6 @@
   publisher: IEEE Trans. Knowl. Data Eng.
   date: '2018-01-01'
   link: https://doi.org/10.1109/TKDE.2018.2810873
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1145/3269206.3271728
-  title: Personalizing Search Results Using Hierarchical RNN with Query-aware Attention
-  authors:
-  - Songwei Ge
-  - Zhicheng Dou
-  - Zhengbao Jiang
-  - Jian-Yun Nie
-  - Ji-Rong Wen
-  publisher: CIKM
-  date: '2018-01-01'
-  link: https://doi.org/10.1145/3269206.3271728
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -5486,18 +4555,6 @@
   publisher: SIGIR
   date: '2009-01-01'
   link: https://doi.org/10.1145/1571941.1571982
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1007/978-0-387-39940-9_267
-  title: Personalized Web Search
-  authors:
-  - Ji-Rong Wen
-  - Zhicheng Dou
-  - Ruihua Song
-  publisher: Encyclopedia of Database Systems
-  date: '2009-01-01'
-  link: https://doi.org/10.1007/978-0-387-39940-9_267
   type: paper
   plugin: sources.py
   file: sources.yaml
