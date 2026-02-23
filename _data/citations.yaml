@@ -920,7 +920,7 @@
   - Shuaiqiang Wang
   - Dawei Yin
   - Zhicheng Dou
-  publisher: ACL (1)
+  publisher: ACL
   date: '2025-01-01'
   link: https://aclanthology.org/2025.acl-long.8/
   type: paper
@@ -944,7 +944,7 @@
   - Maosong Sun
   - James Evans
   - Xing Xie
-  publisher: ACL (3)
+  publisher: ACL
   date: '2025-01-01'
   link: https://doi.org/10.18653/v1/2025.acl-demo.64
   type: paper
@@ -962,7 +962,7 @@
   - Zhonghua Li
   - Ye Qi
   - Zhicheng Dou
-  publisher: ACL (1)
+  publisher: ACL
   date: '2025-01-01'
   link: https://aclanthology.org/2025.acl-long.176/
   type: paper
@@ -978,7 +978,7 @@
   - Yutao Zhu
   - Zhicheng Dou
   - Ji-Rong Wen
-  publisher: ACL (1)
+  publisher: ACL
   date: '2025-01-01'
   link: https://aclanthology.org/2025.acl-long.179/
   type: paper
@@ -993,7 +993,7 @@
   - Yutao Zhu
   - Zhicheng Dou
   - Ji-Rong Wen
-  publisher: ACL (1)
+  publisher: ACL
   date: '2025-01-01'
   link: https://aclanthology.org/2025.acl-long.180/
   type: paper
@@ -1010,7 +1010,7 @@
   - Xinting Huang
   - Dong Yu
   - Zhicheng Dou
-  publisher: ACL (1)
+  publisher: ACL
   date: '2025-01-01'
   link: https://aclanthology.org/2025.acl-long.241/
   type: paper
@@ -1039,7 +1039,7 @@
   - Di Hu
   - Wenbing Huang
   - Ji-Rong Wen
-  publisher: ACL (1)
+  publisher: ACL
   date: '2025-01-01'
   link: https://aclanthology.org/2025.acl-long.289/
   type: paper
@@ -1074,7 +1074,7 @@
   - Shuaiqiang Wang
   - Dawei Yin
   - Zhicheng Dou
-  publisher: ACL (1)
+  publisher: ACL
   date: '2025-01-01'
   link: https://aclanthology.org/2025.acl-long.461/
   type: paper
@@ -1088,7 +1088,7 @@
   - Peitian Zhang
   - Zhicheng Dou
   - Defu Lian
-  publisher: ACL (1)
+  publisher: ACL
   date: '2025-01-01'
   link: https://aclanthology.org/2025.acl-long.465/
   type: paper
@@ -1135,7 +1135,7 @@
   - Zhonghua Li
   - Ye Qi
   - Zhicheng Dou
-  publisher: ACL (1)
+  publisher: ACL
   date: '2025-01-01'
   link: https://aclanthology.org/2025.acl-long.819/
   type: paper
@@ -1422,7 +1422,7 @@
   - Yujia Zhou
   - Xu Chen
   - Zhicheng Dou
-  publisher: KDD (1)
+  publisher: KDD
   date: '2025-01-01'
   link: https://doi.org/10.1145/3690624.3709240
   type: paper
@@ -1435,7 +1435,7 @@
   - Shuting Wang
   - Yutao Zhu
   - Zhicheng Dou
-  publisher: KDD (1)
+  publisher: KDD
   date: '2025-01-01'
   link: https://doi.org/10.1145/3690624.3709282
   type: paper
@@ -1450,7 +1450,7 @@
   - Zhicheng Dou
   - Haonan Chen
   - Jiajie Jin
-  publisher: KDD (2)
+  publisher: KDD
   date: '2025-01-01'
   link: https://doi.org/10.1145/3711896.3737104
   type: paper
@@ -1862,7 +1862,7 @@
   - Kelong Mao
   - Yujia Zhou
   - Zhicheng Dou
-  publisher: ACL (1)
+  publisher: ACL
   date: '2024-01-01'
   link: https://doi.org/10.18653/v1/2024.acl-long.71
   type: paper
@@ -1891,7 +1891,7 @@
   - Kelong Mao
   - Jiongnan Liu
   - Ziliang Zhao
-  publisher: ACL (1)
+  publisher: ACL
   date: '2024-01-01'
   link: https://doi.org/10.18653/v1/2024.acl-long.149
   type: paper
@@ -1909,7 +1909,7 @@
   - Zheng Liu
   - Ji-Rong Wen
   - Zhicheng Dou
-  publisher: ACL (1)
+  publisher: ACL
   date: '2024-01-01'
   link: https://doi.org/10.18653/v1/2024.acl-long.154
   type: paper
@@ -1922,7 +1922,7 @@
   - Yiruo Cheng
   - Kelong Mao
   - Zhicheng Dou
-  publisher: ACL (1)
+  publisher: ACL
   date: '2024-01-01'
   link: https://doi.org/10.18653/v1/2024.acl-long.159
   type: paper
@@ -1936,7 +1936,7 @@
   - Shitao Xiao
   - Zhicheng Dou
   - Jian-Yun Nie
-  publisher: ACL (1)
+  publisher: ACL
   date: '2024-01-01'
   link: https://doi.org/10.18653/v1/2024.acl-long.194
   type: paper
@@ -1952,7 +1952,7 @@
   - Peidong Guo
   - Kun Fang
   - Ji-Rong Wen
-  publisher: ACL (1)
+  publisher: ACL
   date: '2024-01-01'
   link: https://doi.org/10.18653/v1/2024.acl-long.242
   type: paper
@@ -1967,7 +1967,7 @@
   - Ching-Chun Chang
   - Huy H. Nguyen
   - Isao Echizen
-  publisher: AINA (4)
+  publisher: AINA
   date: '2024-01-01'
   link: https://doi.org/10.1007/978-3-031-57916-5_23
   type: paper
@@ -2763,7 +2763,7 @@
   authors:
   - Hongjin Qian
   - Zhicheng Dou
-  publisher: ECIR (2)
+  publisher: ECIR
   date: '2023-01-01'
   link: https://doi.org/10.1007/978-3-031-28238-6_6
   type: paper
@@ -3631,7 +3631,7 @@
   - Kun Zhou
   - Pan Du
   - Zhicheng Dou
-  publisher: ECIR (1)
+  publisher: ECIR
   date: '2021-01-01'
   link: https://doi.org/10.1007/978-3-030-72113-8_50
   type: paper
@@ -3650,7 +3650,7 @@
   - Paul Bennett
   - Tie-Yan Liu
   - Arnold Overwijk
-  publisher: EMNLP (1)
+  publisher: EMNLP
   date: '2021-01-01'
   link: https://doi.org/10.18653/v1/2021.emnlp-main.220
   type: paper
