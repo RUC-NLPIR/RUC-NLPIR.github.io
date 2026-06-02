@@ -23,7 +23,7 @@ nav:
 - Qiannan Zhu, 2021-2023, Beijing Normal University
 
 ###### PhD
-- Kelong Mao, 2021-2025, JD.com, Inc.
+- Kelong Mao, 2021-2025, JD.com, Inc. (TGT program)
 - Zhan Su, 2020-2025
 - Hongjin Qian, 2020-2024, Beijing Academy of Artificial Intelligence
 - Yujia Zhou, 2019-2024, Tsinghua University
