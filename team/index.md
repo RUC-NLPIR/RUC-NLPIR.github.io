@@ -32,7 +32,7 @@ nav:
 - Sha Hu, 2010-2015, Southwest University
 
 ###### Master
-- Peitian Zhang, 2022-2025, Bytedance
+- Peitian Zhang, 2022-2025, Bytedance (Seed)
 - Wei Xu, 2022-2025, Alipay
 - Shiren Song, 2022-2025, Bytedance
 - Yueqian Yang, 2021-2024, Xiaomi Inc.
