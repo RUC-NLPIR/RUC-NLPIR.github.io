@@ -41,6 +41,7 @@ nav:
 - Yueyuan Ma, 2020-2023, China Mobile
 - Didi Lian, 2020-2023, China Life Insurance
 - Qingyu Bing, 2020-2023, Bytedance
+- Yu Guo, 2020-2023, Bytedance
 - Shuqi Lu, 2019-2022, DP Technology
 - Tao Lv, 2020-2022, China Life Insurance
 - Jing Yao, 2019-2022, Microsoft Research Asia
