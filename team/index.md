@@ -23,9 +23,9 @@ nav:
 - Qiannan Zhu, 2021-2023, Beijing Normal University
 
 ###### PhD
-- Jiongnan Liu, 2022-2026, Alibaba (Tongyi Lab)
-- Shuting Wang, 2022-2026, Bytedance (Seed)
-- Zhirui Deng, 2022-2026, Tencent (Project UP)
+- Jiongnan Liu, 2021-2026, Alibaba (Tongyi Lab)
+- Shuting Wang, 2021-2026, Bytedance (Seed)
+- Zhirui Deng, 2021-2026, Tencent (Project UP)
 - Kelong Mao, 2021-2025, JD (TGT program)
 - Zhan Su, 2020-2025
 - Hongjin Qian, 2020-2024, Beijing Academy of Artificial Intelligence
