@@ -23,15 +23,19 @@ nav:
 - Qiannan Zhu, 2021-2023, Beijing Normal University
 
 ###### PhD
-- Kelong Mao, 2021-2025, JD.com, Inc. (TGT program)
+- Jiongnan Liu, 2022-2026, Alibaba (Tongyi Lab)
+- Shuting Wang, 2022-2026, Bytedance (Seed)
+- Zhirui Deng, 2022-2026, Tencent (Project UP)
+- Kelong Mao, 2021-2025, JD (TGT program)
 - Zhan Su, 2020-2025
 - Hongjin Qian, 2020-2024, Beijing Academy of Artificial Intelligence
 - Yujia Zhou, 2019-2024, Tsinghua University
 - Han Zhang, 2018-2023, China Unicom
-- Xubo Qin, 2017-2021, Beijing Institute for General Artificial Intelligence
+- Xubo Qin, 2017-2021, JD (DMT program)
 - Sha Hu, 2010-2015, Southwest University
 
 ###### Master
+- Jiehan Cheng, 2023-2026, Bytedance
 - Peitian Zhang, 2022-2025, Bytedance (Seed)
 - Wei Xu, 2022-2025, Alipay
 - Shiren Song, 2022-2025, Bytedance
